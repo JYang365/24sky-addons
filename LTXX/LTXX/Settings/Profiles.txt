@@ -1,0 +1,762 @@
+PROFILE
+PROFILE:(initials)_OBS:300:0
+ATIS2:REPLACE (initials) with INITIALS OF YOUR NAME AND SURNAME
+ATIS3:Eg. Gursel Alp GA_OBS
+ATIS4:DELETE INFO LINES BEFORE ONLINE ON NETWORK!
+PROFILE:ANK_CTR:300:6
+ATIS2:Ankara Control - DCL & CPDLC available [LTXX]					
+ATIS3:Airspace Map - vatglasses.uk/turkiye 				
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback			
+PROFILE:ANK_A_CTR:300:6
+ATIS2:Ankara Control - DCL & CPDLC available [LTAA]					
+ATIS3:Airspace Map - vatglasses.uk/turkiye 				
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:ANK_W_CTR:300:6
+ATIS2:Ankara Control  - DCL & CPDLC available [LTBB]					
+ATIS3:Airspace Map - vatglasses.uk/turkiye 				
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:ANK_WN_CTR:300:6
+ATIS2:Ankara Control - DCL & CPDLC available [LTBN]					
+ATIS3:Airspace Map - vatglasses.uk/turkiye 				
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:ANK_WS_CTR:300:6
+ATIS2:Ankara Control - DCL & CPDLC available [LTBS]					
+ATIS3:Airspace Map - vatglasses.uk/turkiye 				
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:ANK_N_CTR:300:6
+ATIS2:Ankara Control  - DCL & CPDLC available [LTAN]					
+ATIS3:Airspace Map - vatglasses.uk/turkiye 				
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:ANK_C_CTR:300:6
+ATIS2:Ankara Control - DCL & CPDLC available [ANKC]					
+ATIS3:Airspace Map - vatglasses.uk/turkiye 				
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:ANK_S_CTR:300:6
+ATIS2:Ankara Control - DCL & CPDLC available [LTAS]					
+ATIS3:Airspace Map - vatglasses.uk/turkiye 				
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:ANK_E_CTR:300:6
+ATIS2:Ankara Control - DCL & CPDLC available [LTAE]					
+ATIS3:Airspace Map - vatglasses.uk/turkiye 				
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:ANK_EN_CTR:300:6
+ATIS2:Ankara Control - DCL & CPDLC available [LTNE]					
+ATIS3:Airspace Map - vatglasses.uk/turkiye 				
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:ANK_ES_CTR:300:6
+ATIS2:Ankara Control - DCL & CPDLC available [LTSE]					
+ATIS3:Airspace Map - vatglasses.uk/turkiye 				
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:ANK_1_CTR:300:6
+ATIS2:Ankara Control - DCL & CPDLC available [LT01]					
+ATIS3:Airspace Map - vatglasses.uk/turkiye 				
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:ANK_2_CTR:300:6
+ATIS2:Ankara Control - DCL & CPDLC available [LT02]					
+ATIS3:Airspace Map - vatglasses.uk/turkiye 				
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:ANK_3_CTR:300:6
+ATIS2:Ankara Control - DCL & CPDLC available [LT03]					
+ATIS3:Airspace Map - vatglasses.uk/turkiye 				
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:ANK_4_CTR:300:6
+ATIS2:Ankara Control - DCL & CPDLC available [LT04]					
+ATIS3:Airspace Map - vatglasses.uk/turkiye 				
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:ANK_5_CTR:300:6
+ATIS2:Ankara Control - DCL & CPDLC available [LT05]					
+ATIS3:Airspace Map - vatglasses.uk/turkiye 				
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:ANK_6_CTR:300:6
+ATIS2:Ankara Control - DCL & CPDLC available [LT06]					
+ATIS3:Airspace Map - vatglasses.uk/turkiye 				
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:ANK_7_CTR:300:6
+ATIS2:Ankara Control - DCL & CPDLC available [LT07]					
+ATIS3:Airspace Map - vatglasses.uk/turkiye 				
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:ANK_8_CTR:300:6
+ATIS2:Ankara Control - DCL & CPDLC available [LT08]					
+ATIS3:Airspace Map - vatglasses.uk/turkiye 				
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:ANK_9_CTR:300:6
+ATIS2:Ankara Control - DCL & CPDLC available [LT09]					
+ATIS3:Airspace Map - vatglasses.uk/turkiye 				
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:ANK_10_CTR:300:6
+ATIS2:Ankara Control - DCL & CPDLC available [LT10]					
+ATIS3:Airspace Map - vatglasses.uk/turkiye 				
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:ANK_11_CTR:300:6
+ATIS2:Ankara Control - DCL & CPDLC available [LT11]					
+ATIS3:Airspace Map - vatglasses.uk/turkiye 				
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:ANK_12_CTR:300:6
+ATIS2:Ankara Control - DCL & CPDLC available [LT12]					
+ATIS3:Airspace Map - vatglasses.uk/turkiye 				
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:ANK_13_CTR:300:6
+ATIS2:Ankara Control - DCL & CPDLC available [LT13]					
+ATIS3:Airspace Map - vatglasses.uk/turkiye 				
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:ANK_14_CTR:300:6
+ATIS2:Ankara Control - DCL & CPDLC available [LT14]					
+ATIS3:Airspace Map - vatglasses.uk/turkiye 				
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:ANK_15_CTR:300:6
+ATIS2:Ankara Control - DCL & CPDLC available [LT15]					
+ATIS3:Airspace Map - vatglasses.uk/turkiye 				
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:ANK_16_CTR:300:6
+ATIS2:Ankara Control - DCL & CPDLC available [LT16]					
+ATIS3:Airspace Map - vatglasses.uk/turkiye 				
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:ANK_17_CTR:300:6
+ATIS2:Ankara Control - DCL & CPDLC available [LT17]					
+ATIS3:Airspace Map - vatglasses.uk/turkiye 				
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:ANK_18_CTR:300:6
+ATIS2:Ankara Control - DCL & CPDLC available [LT18]					
+ATIS3:Airspace Map - vatglasses.uk/turkiye 				
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:ANK_19_CTR:300:6
+ATIS2:Ankara Control - DCL & CPDLC available [LT19]					
+ATIS3:Airspace Map - vatglasses.uk/turkiye 				
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:IST_APP:150:5
+ATIS2:Yesilkoy Approach - DCL Available for [LTFM]					
+ATIS3:Airspace Map - vatglasses.uk/turkiye 				
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:IST_SEU_APP:150:5
+ATIS2:Yesilkoy Approach - East Upper					
+ATIS3:Airspace Map - vatglasses.uk/turkiye 				
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:IST_SWU_APP:150:5
+ATIS2:Yesilkoy Approach - West Upper					
+ATIS3:Airspace Map - vatglasses.uk/turkiye 				
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:IST_SWD_APP:150:5
+ATIS2:Yesilkoy Approach - Director/West Director					
+ATIS3:Airspace Map - vatglasses.uk/turkiye 				
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:IST_SEF_APP:150:5
+ATIS2:Yesilkoy Approach - DCL Available for [LTFM]					
+ATIS3:Airspace Map - vatglasses.uk/turkiye 				
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:IST_SWF_APP:150:5
+ATIS2:Yesilkoy Approach - West Final					
+ATIS3:Airspace Map - vatglasses.uk/turkiye 				
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:IST_SAG_APP:150:5
+ATIS2:Yesilkoy Approach - Gokcen Director			
+ATIS3:Airspace Map - vatglasses.uk/turkiye 				
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:IST_SAD_DEP:150:5
+ATIS2:Yesilkoy Approach - Istanbul Departure					
+ATIS3:Airspace Map - vatglasses.uk/turkiye 				
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:IST_SEC_APP:150:5
+ATIS2:Yesilkoy Approach - East Center					
+ATIS3:Airspace Map - vatglasses.uk/turkiye 				
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:IST_SED_APP:150:5
+ATIS2:Yesilkoy Approach - East Director				
+ATIS3:Airspace Map - vatglasses.uk/turkiye 				
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:IST_SEN_APP:150:5
+ATIS2:Yesilkoy Approach - East North					
+ATIS3:Airspace Map - vatglasses.uk/turkiye 				
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:IST_SES_APP:150:5
+ATIS2:Yesilkoy Approach - East South					
+ATIS3:Airspace Map - vatglasses.uk/turkiye 				
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:IST_SWN_APP:150:5
+ATIS2:Yesilkoy Approach - West North					
+ATIS3:Airspace Map - vatglasses.uk/turkiye 				
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:IST_SWS_APP:150:5
+ATIS2:Yesilkoy Approach - West South					
+ATIS3:Airspace Map - vatglasses.uk/turkiye 				
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTAC_APP:150:5
+ATIS2:Esenboga Approach	- DCL available [LTAC]		
+ATIS3:Detailed Info - vats.im/tr/wiki_ltac					
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:LTAC_F_APP:150:5
+ATIS2:Esenboga Approach	- DCL available [LTAC]				
+ATIS3:Detailed Info - vats.im/tr/wiki_ltac					
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:LTAG_APP:150:5
+ATIS2:Incirlik Approach					
+ATIS3:ATC Service for LTAF, LTAG and LTDB
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:LTAI_APP:150:5
+ATIS2:Antalya Approach - DCL Available for [LTAI]					
+ATIS3:Detailed Info - vats.im/tr/wiki_ltai				
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:LTAI_L_APP:150:5
+ATIS2:Antalya Approach - DCL Available for [LTAI]					
+ATIS3:Detailed Info - vats.im/tr/wiki_ltai					
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:LTAI_F_APP:150:5
+ATIS2:Antalya Director - DCL Available for [LTAI]					
+ATIS3:Detailed Info - vats.im/tr/wiki_ltai				
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:LTAN_APP:150:5
+ATIS2:Konya Approach					
+ATIS3:ATC Service for LTAN					
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback				
+PROFILE:LTAP_APP:150:5
+ATIS2:Merzifon Approach					
+ATIS3:ATC Service for LTAP					
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:LTAT_APP:150:5
+ATIS2:Malatya Approach					
+ATIS3:ATC Service for LTAT					
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:LTAU_APP:150:5
+ATIS2:Kayseri Approach					
+ATIS3:ATC Service for LTAU					
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTBH_APP:150:5
+ATIS2:Canakkale Approach					
+ATIS3:ATC Service for LTBH					
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback	
+PROFILE:LTBI_APP:150:5
+ATIS2:Eskisehir Approach
+ATIS3:Covering LTBY, LTBI
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback				
+PROFILE:LTBJ_APP:150:5
+ATIS2:Menderes Approach					
+ATIS3:ATC Service for LTBJ					
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:LTBJ_F_APP:150:5
+ATIS2:Menderes Approach					
+ATIS3:ATC Service for LTBJ					
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback	
+PROFILE:LTBS_APP:150:5
+ATIS2:Dalaman Approach					
+ATIS3:Detailed Info - vats.im/tr/wiki_ltbs				
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback				
+PROFILE:LTBS_S_APP:150:5
+ATIS2:Dalaman Approach					
+ATIS3:Detailed Info - vats.im/tr/wiki_ltbs					
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback	
+PROFILE:LTBS_N_APP:150:5
+ATIS2:Dalaman Approach					
+ATIS3:Detailed Info - vats.im/tr/wiki_ltbs				
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTBQ_APP:150:5
+ATIS2:Topel Approach
+ATIS3:Covering LTBQ
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback						
+PROFILE:LTCC_APP:150:5
+ATIS2:Diyarbakir Approach					
+ATIS3:ATC Service for LTCC, LTCR and LTCJ					
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:LTCG_APP:150:5
+ATIS2:Trabzon Approach					
+ATIS3:ATC Service for LTCG					
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:LTFE_APP:150:5
+ATIS2:Milas Approach					
+ATIS3:ATC Service for LTFE					
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback	
+PROFILE:LTFM_W_TWR:50:4
+ATIS2:Istanbul Tower - DCL [LTFM]
+ATIS3:Detailed Info - Vats.im/tr/wiki_ltfm
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTFM_C_TWR:50:4
+ATIS2:Istanbul Tower - DCL [LTFM]
+ATIS3:Detailed Info - Vats.im/tr/wiki_ltfm
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTFM_E_TWR:50:4
+ATIS2:Istanbul Tower - DCL [LTFM]
+ATIS3:Detailed Info - Vats.im/tr/wiki_ltfm
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTFM_DEL:20:2
+ATIS2:Istanbul Clearance - DCL [LTFM]
+ATIS3:Detailed Info 
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTFM_FMP:20:2
+ATIS2:Istanbul Flow Manager - DCL [LTFM]
+ATIS3:Detailed Info - Vats.im/tr/wiki_ltfm
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTFM_TE_GND:20:3
+ATIS2:Istanbul Ground - DCL [LTFM]
+ATIS3:Detailed Info - Vats.im/tr/wiki_ltfm
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTFM_TW_GND:20:3
+ATIS2:Istanbul Ground - DCL [LTFM]
+ATIS3:Detailed Info - Vats.im/tr/wiki_ltfm
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTFM_W_GND:20:3
+ATIS2:Istanbul Ground - DCL [LTFM]
+ATIS3:Detailed Info - Vats.im/tr/wiki_ltfm
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTFM_E_GND:20:3
+ATIS2:Istanbul Ground - DCL [LTFM]
+ATIS3:Detailed Info - Vats.im/tr/wiki_ltfm
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTFJ_N_TWR:50:4
+ATIS2:Gokcen Tower - DCL [LTFJ]
+ATIS3:Detailed Info - vats.im/tr/wiki_ltfj
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTFJ_S_TWR:50:4
+ATIS2:Gokcen Tower - DCL [LTFJ]
+ATIS3:Detailed Info - vats.im/tr/wiki_ltfj
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTBA_TWR:50:4
+ATIS2:Yesilkoy Tower
+ATIS3:Voice ATIS on 128.200MHz
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTBJ_TWR:50:4
+ATIS2:Menderes Tower
+ATIS3:Voice ATIS on 129.200MHz
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTFE_TWR:50:4
+ATIS2:Milas Tower
+ATIS3:Voice ATIS on 128.500MHz
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTBS_TWR:50:4
+ATIS2:Dalaman Tower
+ATIS3:Detailed Info - vats.im/tr/wiki_ltbs
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTAI_TWR:50:4
+ATIS2:Antalya Tower DCL [LTAI]
+ATIS3:Detailed Info - vats.im/tr/wiki_ltai
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTBU_TWR:50:4
+ATIS2:Corlu Tower
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTBQ_TWR:50:4
+ATIS2:Topel Tower
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTBR_TWR:50:4
+ATIS2:Yenisehir Tower
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTFK_TWR:50:4
+ATIS2:Gokceada Tower
+ATIS3:Procedural Control for LTFK
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTBH_TWR:50:4
+ATIS2:Canakkale Tower
+ATIS3:Procedural Control for LTBH
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTFD_TWR:50:4
+ATIS2:Edremit Tower
+ATIS3:Procedural Control for LTFD
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTBZ_TWR:50:4
+ATIS2:Zafer Tower
+ATIS3:Procedural Control for LTBZ
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTBO_TWR:50:4
+ATIS2:Usak Tower
+ATIS3:Procedural Control for LTBO
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTAY_TWR:50:4
+ATIS2:Cardak Tower
+ATIS3:Procedural Control for LTAY
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTFC_TWR:50:4
+ATIS2:Isparta Tower
+ATIS3:Procedural Control for LTFC
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTBY_TWR:50:4
+ATIS2:Anadolu Tower
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTAS_TWR:50:4
+ATIS2:Caycuma Tower
+ATIS3:Procedural Control for LTAS
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTAC_TWR:50:4
+ATIS2:Esenboga Tower - DCL available [LTAC]
+ATIS3:Detailed Info - vats.im/tr/wiki_ltac
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTAN_TWR:50:4
+ATIS2:Konya Tower
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTFG_TWR:50:4
+ATIS2:Gazipasa Tower
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTAL_TWR:50:4
+ATIS2:Kastamonu Tower
+ATIS3:Procedural Control for LTAL
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTAZ_TWR:50:4
+ATIS2:Tuzkoy Tower
+ATIS3:Procedural Control for LTAZ
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTAF_TWR:50:4
+ATIS2:Adana Tower
+ATIS3:Voice ATIS on 119.225MHz
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTCM_TWR:50:4
+ATIS2:Sinop Tower
+ATIS3:Procedural Control for LTCM
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTAP_TWR:50:4
+ATIS2:Merzifon Tower
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTAW_TWR:50:4
+ATIS2:Tokat Tower
+ATIS3:Procedural Control for LTAW
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTAR_TWR:50:4
+ATIS2:Sivas Tower
+ATIS3:Procedural Control for LTAR
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTAU_TWR:50:4
+ATIS2:Erkilet Tower
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTCN_TWR:50:4
+ATIS2:Kahramanmaras Tower
+ATIS3:Procedural Control for LTCN
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTAJ_TWR:50:4
+ATIS2:Gaziantep Tower
+ATIS3:Procedural Control for LTAJ
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTFH_TWR:50:4
+ATIS2:Carsamba Tower
+ATIS3:Procedural Control for LTFH
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTAT_TWR:50:4
+ATIS2:Erhac Tower
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTCP_TWR:50:4
+ATIS2:Adiyaman Tower
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTCS_TWR:50:4
+ATIS2:Gap Tower
+ATIS3:Procedural Control for LTCS
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTCB_TWR:50:4
+ATIS2:Ordu-Giresun Tower
+ATIS3:Procedural Control for LTCB
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTCD_TWR:50:4
+ATIS2:Erzincan Tower
+ATIS3:Procedural Control for LTCD
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTCA_TWR:50:4
+ATIS2:Elazig Tower
+ATIS3:Procedural Control for LTCA
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTCU_TWR:50:4
+ATIS2:Bingol Tower
+ATIS3:Procedural Control for LTCU
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTCC_TWR:50:4
+ATIS2:Diyarbakir Tower
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTCR_TWR:50:4
+ATIS2:Mardin Tower
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTCG_TWR:50:4
+ATIS2:Trazbon Tower
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTCE_TWR:50:4
+ATIS2:Erzurum Tower
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTCK_TWR:50:4
+ATIS2:Mus Tower
+ATIS3:Procedural Control for LTCK
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTCJ_TWR:50:4
+ATIS2:Batman Tower
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTCL_TWR:50:4
+ATIS2:Siirt Tower
+ATIS3:Procedural Control for LTCL
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTCF_TWR:50:4
+ATIS2:Kars Tower
+ATIS3:Procedural Control for LTCF
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTCO_TWR:50:4
+ATIS2:Agri Tower
+ATIS3:Procedural Control for LTCO
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTCT_TWR:50:4
+ATIS2:Igdir Tower
+ATIS3:Procedural Control for LTCT
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTCI_TWR:50:4
+ATIS2:Van Tower
+ATIS3:Procedural Control for LTCI
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTCW_TWR:50:4
+ATIS2:Yuksekova Tower
+ATIS3:Procedural Control for LTCW
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTCV_TWR:50:4
+ATIS2:Sirnak Tower
+ATIS3:Procedural Control for LTCV
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTFJ_N_GND:20:3
+ATIS2:Gokcen Ground - DCL [LTFJ]
+ATIS3:vats.im/tr/wiki_ltfj
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTFJ_S_GND:20:3
+ATIS2:Gokcen Ground - DCL [LTFJ]
+ATIS3:vats.im/tr/wiki_ltfj
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTBU_GND:20:3
+ATIS2:Corlu Ground
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTBR_GND:20:3
+ATIS2:Yenisehir Ground
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTFK_GND:20:3
+ATIS2:Gokceada Ground
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTBH_GND:20:3
+ATIS2:Canakkale Ground
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTFD_GND:20:3
+ATIS2:Edremit Ground
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTBY_GND:20:3
+ATIS2:Anadolu Ground
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTBZ_GND:20:3
+ATIS2:Zafer Ground
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTBJ_GND:20:3
+ATIS2:Menderes Ground
+ATIS3:Voice ATIS on 129.200MHz
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTBD_GND:20:3
+ATIS2:Cildir Ground
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTBD_TWR:50:4
+ATIS2:Cildir Tower
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTAY_GND:20:3
+ATIS2:Cardak Ground
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTFC_GND:20:3
+ATIS2:Isparta Ground
+ATIS3:Voice ATIS 129.025MHz
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTFE_GND:20:3
+ATIS2:Milas Ground
+ATIS3:Voice ATIS on 128.500MHz
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTBS_GND:20:3
+ATIS2:Dalaman Ground
+ATIS3:Detailed Info - vats.im/tr/wiki_ltbs
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTAI_GND:20:3
+ATIS2:Antalya Ground DCL [LTAI]
+ATIS3:Detailed Info - vats.im/tr/wiki_ltai
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTFG_GND:20:3
+ATIS2:Gazipasa Ground
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTAI_DEL:20:2
+ATIS2:Antalya Delivery DCL [LTAI]
+ATIS3:Detailed Info - vats.im/tr/wiki_ltai
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTAC_GND:20:3
+ATIS2:Esenboga Ground - DCL available [LTAC]
+ATIS3:Detailed Info - vats.im/tr/wiki_ltac
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTAC_DEL:20:2
+ATIS2:Esenboga Delivery - DCL available [LTAC]
+ATIS3:Detailed Info - vats.im/tr/wiki_ltac
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTAN_GND:20:3
+ATIS2:Konya Ground
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTAL_GND:20:3
+ATIS2:Kastamonu Ground
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTAW_GND:20:3
+ATIS2:Tokat Ground
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTAR_GND:20:3
+ATIS2:Sivas Ground
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTCM_GND:20:3
+ATIS2:Sinop Ground
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTFH_GND:20:3
+ATIS2:Carsamba Ground
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTAZ_GND:20:3
+ATIS2:Tuzkoy Ground
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTAU_GND:20:3
+ATIS2:Erkilet Ground
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTAF_GND:20:3
+ATIS2:Adana Ground
+ATIS3:Voice ATIS on 119.225MHz
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTDA_TWR:50:4
+ATIS2:Hatay Tower
+ATIS3:Procedural Control for LTDA
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTDA_GND:50:3
+ATIS2:Hatay Ground
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTDB_TWR:50:4
+ATIS2:Cukurova Tower
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTDB_GND:50:3
+ATIS2:Cukurova Ground
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTCN_GND:50:3
+ATIS2:Kahramanmaras Ground
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTAJ_GND:20:3
+ATIS2:Gaziantep Ground
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTCP_GND:50:4
+ATIS2:Adiyaman Ground
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTCS_GND:50:3
+ATIS2:Gap Ground
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTCC_GND:50:3
+ATIS2:Diyarbakir Ground
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTCR_GND:50:3
+ATIS2:Mardin Ground
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTCL_GND:20:3
+ATIS2:Siirt Ground
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTCV_GND:20:3
+ATIS2:Sirnak Ground
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTAT_GND:20:3
+ATIS2:Erhac Ground
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTCA_GND:20:3
+ATIS2:Elazig Ground
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTCU_GND:20:3
+ATIS2:Bingol Ground
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTCI_GND:20:3
+ATIS2:Van Ground
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTCW_GND:20:3
+ATIS2:Yuksekova Ground
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTCD_GND:20:3
+ATIS2:Erzincan Ground
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTCE_GND:20:3
+ATIS2:Erzurum Ground
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTCO_GND:20:3
+ATIS2:Agri Ground
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTCT_GND:20:3
+ATIS2:Igdir Ground
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTCF_GND:20:3
+ATIS2:Kars Ground
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTCG_GND:20:3
+ATIS2:Trabzon Ground
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTCB_GND:20:3
+ATIS2:Ordu-Giresun Ground
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTFJ_DEL:20:2
+ATIS2:Gokcen Delivery - DCL [LTFJ]
+ATIS3:Detailed Info - vats.im/tr/wiki_ltfj
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTAD_TWR:50:4
+ATIS2:Etimesgut Tower
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTAE_TWR:50:4
+ATIS2:M rted Tower
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTAG_TWR:50:4
+ATIS2:Incirlik Tower
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTAH_TWR:50:4
+ATIS2:Afyon Tower
+ATIS3:Info at trvacc.net - Feedback at vats.im/tr/feedback
+ATIS4:
+PROFILE:LTFO_TWR:50:4
+ATIS2:Rize-Artvin Tower
+ATIS3:
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTFO_GND:10:4
+ATIS2:Rize-Artvin Ground
+ATIS3:
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback				
+PROFILE:JY_OBS:600:6
+ATIS2:
+ATIS3:
+ATIS4:
+END

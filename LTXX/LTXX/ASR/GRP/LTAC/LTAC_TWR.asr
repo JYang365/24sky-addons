@@ -1,0 +1,23 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+ARTCC boundary:FIR border LTAA:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:-1
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:10
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:54.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:40.109908:32.949375:40.146037:33.039939
+PLUGIN:Ground Radar plugin:AirportElevation:3125
+PLUGIN:Ground Radar plugin:AirportRadius:1.3
+PLUGIN:Ground Radar plugin:GroundMode:LTAC

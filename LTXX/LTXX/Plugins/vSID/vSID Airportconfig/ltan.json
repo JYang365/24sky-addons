@@ -1,0 +1,86 @@
+{
+    "LTAN": {
+        "elevation": 3392,
+        "runways": "01L,01R,19R,19L",
+        "transAlt": 10000,
+        "maxInitialClimb": 11000,
+		"appSI": "AN,ANK9,ANKS,ANKC,ANKA,ANK",
+		"enableRVSids": false,
+        "sids": {
+            "OBRUK": {
+                "1": {
+                    "designator": "A",
+                    "rwy": "01L,01R",
+					"initial":11000,
+                    "prio": 1
+                },
+				"2": {
+                    "designator": "B",
+                    "rwy": "19R,19L",
+					"initial":11000,
+                    "prio": 1
+                },
+				"3": {
+                    "designator": "C",
+                    "rwy": "19R,19L",
+					"initial":11000,
+                    "prio": 99
+                }
+			},
+			"OKELI": {
+                "1": {
+                    "designator": "A",
+                    "rwy": "01L,01R",
+					"initial":11000,
+                    "prio": 1
+                },
+				"2": {
+                    "designator": "D",
+                    "rwy": "01L,01R",
+					"initial":11000,
+                    "prio": 99
+                },
+				"3": {
+                    "designator": "B",
+                    "rwy": "19R,19L",
+					"initial":11000,
+                    "prio": 1
+                }
+			},
+			"HISAR": {
+                "1": {
+                    "designator": "A",
+                    "rwy": "01L,01R",
+					"initial":11000,
+                    "prio": 1
+				},
+				"2": {
+                    "designator": "B",
+                    "rwy": "19R,19L",
+					"initial":11000,
+                    "prio": 1
+                }
+			},
+			"SEHIR": {
+                "1": {
+                    "designator": "A",
+                    "rwy": "01L,01R",
+					"initial":11000,
+                    "prio": 1
+                },
+				"2": {
+                    "designator": "B",
+                    "rwy": "01L,01R",
+					"initial":11000,
+                    "prio": 99
+                },
+				"3": {
+                    "designator": "C",
+                    "rwy": "19R,19L",
+					"initial":11000,
+                    "prio": 1
+                }
+			}
+		}
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "LTCR": {
+        "elevation": 1727,
+        "runways": "03,21",
+        "transAlt": 10000,
+        "maxInitialClimb": 15000,
+		"appSI": "CC,AN16,ANES,ANKE,ANKA,ANK",
+		"enableRVSids": false,
+        "sids": {
+			"DYB": {
+                "1": {
+                    "designator": "U",
+                    "rwy": "03",
+                    "initial": 15000,
+                    "prio": 1
+                },
+				"2": {
+                    "designator": "A",
+                    "rwy": "03",
+                    "initial": 15000,
+                    "prio": 2
+                },
+				"3": {
+                    "designator": "T",
+                    "rwy": "03",
+                    "initial": 15000,
+                    "prio": 3
+                },
+				"4": {
+                    "designator": "B",
+                    "rwy": "03",
+                    "initial": 15000,
+                    "prio": 99
+                },
+				"5": {
+                    "designator": "N",
+                    "rwy": "21",
+                    "initial": 15000,
+                    "prio": 1
+                },
+				"6": {
+                    "designator": "D",
+                    "rwy": "21",
+                    "initial": 15000,
+                    "prio": 2
+                },
+				"7": {
+                    "designator": "C",
+                    "rwy": "21",
+                    "initial": 15000,
+                    "prio": 3
+                },
+				"8": {
+                    "designator": "J",
+                    "rwy": "21",
+                    "initial": 15000,
+                    "prio": 3
+                }
+			},
+			"ARTAR": {
+                "1": {
+                    "designator": "P",
+                    "rwy": "03",
+                    "initial": 15000,
+                    "prio": 1
+                },
+				"2": {
+                    "designator": "Z",
+                    "rwy": "03",
+                    "initial": 15000,
+                    "prio": 2
+                },
+				"3": {
+                    "designator": "R",
+                    "rwy": "03",
+                    "initial": 15000,
+                    "prio": 3
+                },
+				"4": {
+                    "designator": "Y",
+                    "rwy": "03",
+                    "initial": 15000,
+                    "prio": 4
+                },
+				"5": {
+                    "designator": "N",
+                    "rwy": "21",
+                    "initial": 15000,
+                    "prio": 1
+                },
+				"6": {
+                    "designator": "U",
+                    "rwy": "21",
+                    "initial": 15000,
+                    "prio": 2
+                },
+				"7": {
+                    "designator": "V",
+                    "rwy": "21",
+                    "initial": 15000,
+                    "prio": 2
+                },
+				"8": {
+                    "designator": "J",
+                    "rwy": "21",
+                    "initial": 15000,
+                    "prio": 2
+                }
+			}
+		}
+    }
+}

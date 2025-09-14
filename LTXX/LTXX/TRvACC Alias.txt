@@ -1,0 +1,402 @@
+TRvACC STANDARD ALIAS
+
+.autocontact Contact $1 $2, good bye.
+.autoproceed Proceed direct $1.
+.autoclimblevel Climb to FL $1.
+.autoclimbaltitude Climb to altitude $1 ft QNH $altim($dep) hPa.
+.autodescendlevel Descend to FL $1.
+.autodescendaltitude Descend $1 ft, QNH $altim($arr) hPa.
+.autoclearedils Cleared ILS approach runway $1.
+.autoclearedvisual Cleared visual approach runway $1. Report runway in sight.
+.autospeed Maintain speed $1 knots.
+.automach Maintain mach number $1 
+.autonospeed No ATC speed restriction.
+.autoturnleft Turn left heading $1 degrees
+.autoturnright Turn right heading $1 degrees
+.autosquawk Squawk $1
+
+.af Affirmative.
+..af Mutabik
+
+.ng Negative.
+..ng Olumsuz
+
+.stb Standby please.
+..stb Beklemede kalin lutfen
+
+.v? Are you able to receive voice?
+..v? Ses alabiliyor musunuz?
+
+.viac Via $1, cross rwy $2.
+..viac $1 ile $2 pistini kat edin.
+
+.re Report established.
+..re Establish olunca ikaz edin.
+
+.id Identified.
+..id Radar tanimi mevcut.
+
+.rc Radar contact.
+..rc Radar temasi mevcut.
+
+.rrd Report when ready for descent.
+..rrd Alcalisa hazir olusu ikaz edin.
+
+.wrd When ready, descend to FL $1.
+..wrd Hazir oldugunuzda ucus seviyesi $1 'e alcalin.
+
+.wrda When ready, descend to altitude $1, QNH $altim($arr).
+..wrda Hazir oldugunuzda irtifa $1 'e alcalin, altimetre $altim($arr).
+
+.h $radioname, hello.
+..h $radioname, merhaba.
+
+.h1 hello.
+..h1 merhaba.
+
+.gd $radioname, good day.
+..gd $radioname, iyi gunler.
+
+.gd1 good day.
+..gd1 iyi gunler.
+
+.gan $radioname, good afternoon.
+.gan1 good afternoon.
+
+.ge $radioname, good evening.
+..ge $radioname, iyi aksamlar.
+
+.ge1 good evening.
+..ge1 iyi aksamlar.
+
+.gn $radioname, good night.
+..gn $radioname, iyi geceler.
+
+.gn1 good night.
+..gn1 iyi geceler.
+
+.ga Go around, I say again, go around!
+..ga Pas gecin, tekrar ediyorum, pas gecin!
+
+.smc Squawk mode CHARLIE please.
+..smc Transponderinizi CHARLIE moduna aliniz lutfen.
+
+.sq Squawk $squawk please.
+..sq Transponder kodunuzu $squawk giriniz lutfen.
+
+.rbc Readback correct.
+..rbc Geri okuma dogru.
+
+.psr Readback correct. Call ready for pushback and start up.
+..psr Geri okuma dogru. Geri itme ve Motor calistirma hazir olusu ikaz edin.
+
+.rfp Resend your flight plan.
+..rfp Ucus planinizi yeniden gonderin.
+
+.ho Contact $radioname($1) $freq($1), good bye. 
+..ho $radioname($1) $freq($1) ile temasa gecin, hosca kalin!
+
+.close *** ALL STATIONS *** - $radioname is closing now. Monitor UNICOM 122.800MHz, good bye.
+..close *** TUM ISTASYONLAR *** - $radioname su anda kapatiyor. UNICOM 122.800MHz uzerinden devam edin, hosca kalin.
+
+.closeho *** ALL STATIONS *** - $radioname is closing now. Contact $radioname($1) $freq($1), good bye.
+..closeho *** TUM ISTASYONLAR *** - $radioname su anda kapatiyor. $radioname($1) $freq($1) ile temasa gecin, hosca kalin!
+
+.star Cleared $star arrival. 
+..star $star yaklasmasina serbestsiniz.
+
+.cils Cleared ILS approach runway $arrrwy. 
+..cils $arrrwy pistine ILS yaklasma serbest.
+
+.cilst Via $1 transition, cleared ILS approach runway $arrrwy.
+..cilst $arrrwy pisti icin ILS yaklasmasina $1 transition ile serbestsiniz.
+
+.crnp Cleared RNP approach runway $arrrwy.
+..crnp $arrrwy pistine RNP yaklasma serbest.
+
+.cvor Cleared VOR approach runway $arrrwy.
+..cvor $arrrwy pistine VOR yaklasma serbest.
+
+.cndb Cleared NDB approach runway $arrrwy.
+..cndb $arrrwy pistine NDB yaklasma serbest.
+
+.cloc Cleared LOC approach runway $arrrwy.
+..cloc $arrwy pistine LOC yaklasma serbest.
+
+.clrv Cleared to $arr via radar vectors departure, departure runway $deprwy. After departure maintain runway heading. Squawk $squawk. Initial climb $alt. 
+..clrv Planlanan yollardan radar vektor kalkisi ile $arr meydanina serbestsiniz. Pist $deprwy. Kalkisa muteakip pist dogrultusunda devam edin. Squawk kodunuz $squawk. Ilk tirmanma $alt.
+
+.1 Cleared to $arr airport via $sid departure, departure runway $deprwy, squawk $squawk, initial climb $alt. 
+..1 Planlanan yollardan $sid kalkisi ile $arr meydanina serbestsiniz, kalkis pisti $deprwy, squawk kodunuz $squawk, ilk tirmanma $alt.
+
+.5 Identified. Climb unrestricted $alt.
+..5 Radar tanimi mevcut. $alt 'e tirmanma serbest.
+
+.7 Cleared $star arrival. Expect $1 approach for runway $arrrwy.
+..7 $star varisi serbest. $arrrwy pistine $1 yaklasmasi bekleyin.
+
+.ps Push back and Start up approved, QNH $altim($dep).
+..ps Geri itme ve Motor calistirma serbest, QNH $altim($dep).
+
+.psn Push back and Start up approved, QNH $altim($dep). Face North.
+..psn Geri itme ve Motor calistirma serbest, QNH $altim($dep). Yuzunuz kuzeye donsun.
+
+.pss Push back and Start up approved, QNH $altim($dep). Face South.
+..pss Geri itme ve Motor calistirma serbest, QNH $altim($dep). Yuzunuz guneye donsun.
+
+.pse Push back and Start up approved, QNH $altim($dep). Face East.
+..pse Geri itme ve Motor calistirma serbest, QNH $altim($dep). Yuzunuz doguya donsun.
+
+.psw Push back and Start up approved, QNH $altim($dep). Face West.
+..psw Geri itme ve Motor calistirma serbest, QNH $altim($dep). Yuzunuz batiya donsun.
+
+.taxi Taxi via $1.
+..taxi $1 taksi yollari ile taksiye serbestsiniz.
+
+.taxih Taxi via $1, hold $2.
+..taxih $1 taksi yollari ile taksiye serbestsiniz, $2 'da bekleyin.
+
+.taxig Taxi to gate of your choice. 
+..taxig Tercih ettiginiz kapiya taksiye serbestsiniz. 
+
+.ba Backtrack on runway $arrrwy is approved. 
+..ba $arrrwy pisti kat edis serbest. 
+
+.hp Hold your position. 
+..hp Bulundugunuz pozisyonu muhafaza edin. 
+
+.hs Hold short of runway $1. 
+..hs Piste girmeden beklemede kalin. 
+ 
+.idep are you ready for immediate departure? 
+..idep  Acele kalkis icin hazir misiniz?
+
+.lu Line up runway $deprwy. 
+..lu $deprwy pistine giris serbest.
+
+.cfto Winds $winds, runway $deprwy, cleared for take-off.
+..cfto Ruzgar $winds, $deprwy pistinden kalkis serbest.  
+
+.hoa When airborne contact $radioname($1) $freq($1). Good bye!
+..hoa Kalkistan sonra $radioname($1) ile $freq($1) frekansinda temasa gecin. Hosca kalin! 
+
+.hol After landing contact $radioname($1) $freq($1).
+..hol Inisten sonra $radioname($1) ile $freq($1) frekansinda temasa gecin.
+
+.mrh After departure maintain runway heading. 
+..mrh Kalkistan sonra pist dogrultusunu muhafaza edin. 
+
+.on /Good evening, $radioname is online.
+.off /$radioname is closing. Good night for all.
+
+.con Winds $winds, runway $arrrwy, continue approach.
+..con Ruzgar $winds, $arrrwy pistine, yaklasmaya devam edin.
+
+.hoau When airborne monitor UNICOM 122.800MHz, Good bye!
+..hoau Kalkisa mutabik UNICOM 122.800MHz gorusmek uzere!
+
+.c35cfto Cross rwy 35R winds $winds, runway $deprwy, cleared for take-off.
+..c35cto 35R pistini kat ederek 35L son ruzgar $winds, kalkisa serbest.
+
+.c35line Cross rwy 35R lineup and wait rwy 35L.
+..c35line 35R pistini kat ederek 35L pistine giris serbest.
+
+
+ENROUTE INSTRUCTIONS
+ 
+.pd Proceed direct $1.
+..pd Direkt $1 'a devam edin. 
+
+.hold Hold over $1, at $alt, as published.
+..hold $1 uzeri $alt 'de, prosedurun yayimlandigi sekilde beklemeye girin.
+
+.holdl Hold over $1, $alt, inbound track $2, left hand pattern.
+..holdl $1 uzeri, $alt de beklemeye girin, inbound bas  $2, soldan donus.
+
+.holdr Hold over $1, $alt, inbound tack $2, right hand pattern.
+..holdr $1 uzeri, $alt de beklemeye girin, inbound bas  $2, sagdan donus.
+
+.lhh Leave hold on heading $1.
+..lhh Beklemeyi $1 basta terk edin.
+ 
+.cm Climb $1. 
+..cm Ucus irtifasi/seviyesi $1'e tirmanin.
+
+.dm Descent $1. 
+..dm Ucus irtfasi/seviyesi $1 'e alcalin.
+
+.ias Report your indicated air speed please.
+..ias Lutfen gosterge hizinizi rapor edin.
+
+.mach Report your mach number please.
+..mach Mach s ratinizi rapor edin.
+
+.rias Reduce indicated air speed to $1 knots. 
+..rias Gosterge hizinizi $1 knot'a dusurun.
+
+.iias Increase indicated air speed to $1 knots. 
+..iias Gosterge hizinizi $1 knot'a yukseltin.
+
+.rmach Reduce speed to $1 mach.	 	 	
+..rmach Suratinizi $1 mach'a dusurun.
+
+.imach Increase speed to $1 mach. 
+..imach Suratinizi $1 mach'a cikarin.
+
+.lz No further ATC available, ATC service terminated, monitor UNICOM 122.800MHz, good bye. 
+..lz Kontrol sahami terk ediyorsunuz, UNICOM 122.800 frekansi uzerinden ucusunuza devam edin, iyi ucuslar.
+
+EMERGENCY INSTRUCTIONS
+
+.mayb All stations Stop transmitting there is a MAYDAY situation. 
+..mayb Butun trafikler telsiz muhaberatini durdurun. ACIL DURUM cagrisi var. 
+
+.!! Say Reason for Emergency and your intention. 
+..!! ACIL DURUM sebebini ve niyetinizi bildirin. 
+
+.maye All stations MAYDAY traffic ended. 
+..maye Butun trafikler, ACIL DURUM sona ermistir. Normal muhaberata devam ediniz.  
+
+APPROACH AND LANDING INSTRUCTIONS
+
+.tr Turn right heading $1. 
+..tr Saga $1 basa donun. 
+
+.tl Turn left heading $1. 
+..tl Sola $1 basa donun. 
+
+.trpdi Turn right, proceed direct to $1 intersection.
+..trpdi Sagdan donusle $1 noktasina direkt devam edin.
+
+.tlpdi Turn right, proceed direct to $1 intersection.
+..tlpdi Sagdan donusle $1 noktasina direkt devam edin.
+
+.trpdv Turn right, proceed direct to $1 VOR.
+..trpdv Sagdan donusle $1 VOR'una direkt devam edin.
+
+.tlpdv Turn left, proceed direct to $1 VOR.
+..tlpdv Soldan donusle $1 VOR'una direkt devam edin.
+
+.trpdn Turn right, proceed direct to $1 NDB.
+..trpdn Sagdan donusle $1 NDB'sine direkt devam edin.
+
+.tlpdn Turn left, proceed direct to $1 NDB.
+..tlpdn Soldan donusle $1 NDB'sine direkt devam edin.
+
+.trils Turn right heading $1, Cleared for ILS approach runway $arrrwy. Report established.
+..trils Saga $1 basa donerek $arrrwy pisti icin ILS yaklasmaya serbestsiniz. Establish olusu ikaz edin.
+
+.tlils Turn left heading $1, Cleared for ILS approach runway $arrrwy. Report established.
+..tlils Sola $1 basa donerek $arrrwy pisti icin ILS yaklasmaya serbestsiniz. Establish olusu ikaz edin.
+
+.fils  Cleared for ILS approach runway $1 via $arrrwy. Report established.
+..fils $arrrwy pisti icin $1 uzerinden ILS yaklasmasina serbestsiniz. Establish olusu ikaz edin.
+
+.mils Maintain present heading. Cleared for ILS approach runway $arrrwy. Report  established.
+..mils Bulundugunuz basi muhafaza ederek $arrrwy pisti icin ILS yaklasmasina serbestsiniz. Establish olusu ikaz edin.
+
+.cva Cleared VISUAL approach runway $arrrwy. Report runway in sight. 
+..cva $arrrwy pisti icin GOREREK yaklasmaya serbestsiniz. Pist Gorusu Ikaz.
+
+.vordme Cleared VOR-DME approach runway $arrrwy. Report runway in sight.
+..vordme $arrrwy pisti icin VOR-DME yaklasmasina serebstsiniz. SON YAKLASMAYI ikaz edin. 
+
+.pdils Proceed direct $1, via $1, cleared for ILS approach runway $arrrwy.
+..pdils Direkt $1'a devam edin, $arrrwy pisti icin $1 uzerinden ILS yaklasmasina serbestsiniz.
+
+.hot When established ILS contact $radioname($1) $freq($1). Have a nice landing.
+..hot ILS'e establish olunca $radioname($1) $freq($1) ile temasa geciniz. Iyi inisler.
+
+.ctl Winds $winds, runway $arrrwy, cleared to land.
+..ctl Ruzgar $winds. $arrrwy Pistine inis serbest. 
+
+VFR INSTRUCTIONS
+
+.vfr Cleared to $arr VFR, departure rwy $deprwy, QNH $altim($dep), Squawk $squawk. 
+..vfr $arr meydani icin gorerek sartlarda ucusa serbestsiniz. Kullanilan pist $deprwy, altimetre $altim($dep), squawk $squawk. 
+
+.vfrp Cleared for $1 hand turn traffic pattern at $2 feet on VFR, departure rwy $deprwy, QNH $altim($dep), squawk $squawk.
+..vfrp G rerek sartlarda $1 dan donuslu meydan turuna $2 feette serbestsiniz, kalkis pisti $deprwy, altimetre $altim($dep), squawk kodunuz $squawk. 
+
+.rdw Report downwind. 
+..rdw Ruzgar altini rapor edin.
+ 
+.rbl Report base leg. 
+..rbl Esas bacagi rapor edin.
+ 
+.rf Report final. 
+..rf Son yaklasmayi ikaz edin. 
+
+.rsf Report short final. 
+..rsf Kisa son yaklasmayi ikaz edin.
+
+.rlf Report long final. 
+..rfl Uzun yaklasmayi ikaz edin.
+ 
+.edw Extend downwind. 
+..edw Ruzgar altini uzatin. 
+
+.ro Make right orbit. 
+..ro Sagdan orbit atiniz. 
+
+.lo Make left orbit. 
+..lo Soldan orbit atiniz. 
+
+.rais The airport is at your $oclock($arr) and $dist($arr). 
+..rais Meydan saat $oclock($arr) istikametinde ve $dist($arr) milde. 
+
+.kavsaksor Do you prefer intersection departure from taxiway $1?
+..kavsaksor $1 yoluyla kavsak kalkisi tercih eder misiniz?
+
+.kavsaktaxi Taxi to the $2 intersection point of runway $1 via taxiway $3. 
+..kavsaktaxi $1 pisti $2 bekleme noktasina $3 yolu ile taksiye serbestsiniz. 
+
+.tgsor Will you perform a touch and go?
+..tgsor Touch and go mu yapacaksiniz?
+
+.cvs Confirm you have runway $arrrwy in sight
+..cvs $arrrwy pisti ile goz temasiniz var mi?
+
+
+PDC instructions
+
+.pdc1 -PRE-DEPARTURE CLEARANCE START- CALL SIGN: $aircraft SQUAWK: $squawk - FLIGHT LEVEL: $cruise INITIAL CLIMB: $temp DEPT: $dep ARR: $arr EQUIPMENT: $type APPROVED ROUTE: $route via $sid RWY$deprwy - ALTITUDE/SPEED RESTRICTIONS: AS PUBLISHED ON THE SID. CONFIRM SID WITH CONTROLLER PRIOR TO DEPARTURE.
+
+.pdcv -PRE-DEPARTURE CLEARANCE START- CALL SIGN: $aircraft SQUAWK: $squawk - FLIGHT LEVEL: $cruise INITIAL CLIMB: $temp DEPT: $dep ARR: $arr EQUIPMENT: $type APPROVED ROUTE: $route via RADAR
+VECTOR DEPARTURE, RWY$deprwy - AFTER DEPARTURE MAINTAIN RUNWAY HEADING, EXPECT RADAR VECTORS.
+
+.pdc2 THIS MESSAGE SERVES AS YOUR PRE-DEPARTURE CLEARANCE. YOU DO NOT NEED TO REPLY/READBACK TO THIS MESSAGE. CONTACT CLEARANCE DELIVERY ONLY IF YOU HAVE QUESTIONS REGARDING YOUR CLEARANCE. CALL GND/TWR/APP/CTR CONTROLLER WHEN READY FOR PUSHBACK AND STARTUP.
+
+.FMPDC -DEPARTURE CLEARANCE- $ftime(minutes) / FROM: $dep, $aircraft is CLRD TO: $arr / RWY: $deprwy / SID: $sid / SQK: $squawk / FREQ: $freq($1) / ATIS: $atiscode / QNH: $altim($dep) / DEP FREQ: $freq($2) / CLIMB VIA SID TO ALTITUDE $alt / READBACK REQUIRED VIA PRIVATE MESSAGE. CONTACT $freq(3) for PUSH AND START.
+
+.plc Hello, I see you are new to the network. First of all - welcome to VATSIM! It may be tempting to jump right ahead and fly, but I would suggest you read through some training material first, in order to prepare yourself for what you may encounter. First of all - you should read the VATSIM tutorials at vats.im/plc. Here you can find everything you need. Second of all, you should read through the VATSIM Code of Conduct (vats.im/coc), especially sections A and B, in order to not get in trouble for something you didn't know. Let me know if you need any more questions, I am here to help you! 
+..plc Merhaba, VATSIM'de yeni oldugunuzu goruyorum. Her seyden once - VATSIM'e hos geldiniz! Hemen ileri atlayip ucmak cazip gelebilir, ancak karsilasabileceginiz durumlara kendinizi hazirlamak icin once bazi egitim materyallerini okumanizi oneririm. Her seyden once - vats.im/plc adresindeki VATSIM egitimlerini okumalisiniz. Burada ihtiyaciniz olan her seyi bulabilirsiniz. Ikincisi, bilmediginiz bir sey y z nden basinizi derde sokmamak icin VATSIM Code of Conduct (Davranis Kurallari'ni) (vats.im/coc),  zellikle A ve B b l mlerini bastan sona okumalisiniz. Daha fazla yardima ihtiyacin olursa bana haber ver, sana yardim etmek icin buradayim!
+
+AIRPORT Info
+
+.fm16r ILS frequency for LTFM runway 16R is 110.35 and course 174.
+.fm17l ILS frequency for LTFM runway 17L is 111.95 and course 174.
+.fm18 ILS frequency for LTFM runway 18 is 110.95 and course 174.
+.fm34l ILS frequency for LTFM runway 34L is 108.55 and course 354.
+.fm35r ILS frequency for LTFM runway 35R is 109.55 and course 354.
+.fm36 ILS frequency for LTFM runway 36 is 111.35 and course 354.
+
+.fj06 ILS frequency for LTFJ runway 06 is 109.90 and course 059.
+.fj24 ILS frequency for LTFJ runway 24 is 110.90 and course 239.
+
+.ba05 ILS frequency for LTBA runway 05 is 110.30 and course 053.
+.ba23 ILS frequency for LTBA runway 23 is 111.90 and course 233.
+
+.ocz You are out of my control zone. Monitor UNICOM 122.800MHz. Please check sector coverages from: https://www.trvacc.net/sector/
+..ocz Kontrol sahamin disindasiniz. UNICOM 122.800MHz frekansindan devam edin. Lutfen https://www.trvacc.net/sector/ adresinden sektor kapsama alanlarini inceleyiniz.
+
+.oczh You are out of my control zone. Contact $radioname($1) $freq($1). Please check sector coverages from: https://www.trvacc.net/sector/
+..oczh Kontrol sahamin disindasiniz. $radioname($1) $freq($1) ile temasa gecin. Lutfen https://www.trvacc.net/sector/ adresinden sektor kapsama alanlarini inceleyiniz.
+
+TRvACC Wiki
+
+.wikifm You can read more information for LTFM here: wiki.trvacc.net/wiki/Istanbul_Airport
+.wikiai You can read more information for LTAI here: wiki.trvacc.net/wiki/Antalya_Airport
+.wikiac You can read more information for LTAC here: wiki.trvacc.net/wiki/Ankara_Esenbo%C4%9Fa_Airport
+.wikifj You can read more information for LTFJ here: wiki.trvacc.net/wiki/Sabiha_G%C3%B6k%C3%A7en_Airport
+.wikibs You can read more information for LTBS here: wiki.trvacc.net/wiki/Dalaman_Airport

@@ -1,0 +1,134 @@
+LTBB/LTAA FIR
+ANK_1_CTR Ankara Control
+ANK_2_CTR Ankara Control
+ANK_3_CTR Ankara Control
+ANK_4_CTR Ankara Control
+ANK_5_CTR Ankara Control
+ANK_6_CTR Ankara Control
+ANK_7_CTR Ankara Control
+ANK_8_CTR Ankara Control
+ANK_9_CTR Ankara Control
+ANK_10_CTR Ankara Control
+ANK_11_CTR Ankara Control
+ANK_12_CTR Ankara Control
+ANK_13_CTR Ankara Control
+ANK_14_CTR Ankara Control
+ANK_15_CTR Ankara Control
+ANK_16_CTR Ankara Control
+ANK_17_CTR Ankara Control
+ANK_18_CTR Ankara Control
+ANK_19_CTR Ankara Control
+ANK_A_CTR Ankara Control
+ANK_CTR Ankara Control
+ANK_C_CTR Ankara Control
+ANK_EN_CTR Ankara Control
+ANK_ES_CTR Ankara Control
+ANK_E_CTR Ankara Control
+ANK_N_CTR Ankara Control
+ANK_S_CTR Ankara Control
+ANK_WN_CTR Ankara Control
+ANK_WS_CTR Ankara Control
+ANK_W_CTR Ankara Control
+IST_APP Yesilkoy Approach
+IST_SWU_APP Yesilkoy Approach
+IST_SEN_APP Yesilkoy Approach
+IST_SEU_APP Yesilkoy Approach
+IST_SWN_APP Yesilkoy Approach
+IST_SWS_APP Yesilkoy Approach
+IST_SEC_APP Yesilkoy Approach
+IST_SES_APP Yesilkoy Approach
+IST_SWD_APP Yesilkoy Approach
+IST_SWF_APP Yesilkoy Approach
+IST_SEF_APP Yesilkoy Approach
+IST_SED_APP Yesilkoy Approach
+IST_SAD_APP Yesilkoy Approach
+IST_SAG_APP Yesilkoy Approach
+LTAI_APP Antalya Approach
+LTAI_L_APP Antalya Lower Approach
+LTAI_F_APP Antalya Final Approach
+LTBJ_APP Menderes Approach
+LTBJ_F_APP Menderes Final Approach
+LTFE_APP Milas Approach
+LTBS_APP Dalaman Approach
+LTBS_N_APP Dalaman North Approach
+LTBS_S_APP Dalaman South Approach
+LTAC_APP Esenboga Approach
+LTAC_F_APP Esenboga Final Approach
+LTAG_APP Incirlik Approach
+LTCG_APP Trabzon Approach
+LTCC_APP Diyarbakir Approach
+LTAU_APP Kayseri Approach
+LTAF_APP Adana Approach
+LTAN_APP Konya Approach
+LTBF_APP Balikesir Approach
+LTBH_APP Canakkale Approach
+LTAP_APP Merzifon Approach
+LTAT_APP Malatya Approach
+LTCC_APP Diyarbakir Approach
+LTFO_APP Artvin Approach
+LTBG_APP Bandirma Approach
+LTBA_TWR Yesilkoy Tower
+LTFM_TWR Istanbul Tower
+LTFM_W_TWR Istanbul 16-34 Tower
+LTFM_C_TWR Istanbul 17-35 Tower
+LTFM_E_TWR Istanbul 18-36 Tower
+LTFM_1_TWR Istanbul 16-34 Tower
+LTFM_3_TWR Istanbul 17-35 Tower
+LTFM_5_TWR Istanbul 18-36 Tower
+LTFJ_TWR G kcen Tower
+LTBJ_TWR Menderes Tower
+LTBS_TWR Dalaman Tower
+LTFE_TWR Milas Tower
+LTAC_TWR Esenboga Tower
+LTCG_TWR Trabzon Tower
+LTAF_TWR Adana Tower
+LTAI_TWR Antalya Tower
+LTFG_TWR Gazipasa Tower
+LTFC_TWR Isparta Tower
+LTAN_TWR Konya Tower
+LTAG_TWR Incirlik Tower
+LTAU_TWR Kayseri Tower
+LTAJ_TWR Gaziantep Tower
+LTCC_TWR Diyarbakir Tower
+LTCW_TWR Yuksekova Tower
+LTCI_TWR Van Tower
+LTCB_TWR Giresun Tower
+LTFH_TWR Carsamba Tower
+LTCM_TWR Sinop Tower
+LTBR_TWR Yenisehir Tower
+LTBH_TWR Canakkale Tower
+LTAY_TWR Cardak Tower
+LTCF_TWR Kars Tower
+LTAS_TWR Zonguldak Tower
+LTFM_GND Istanbul Ground
+LTFM_E_GND Istanbul East Ground
+LTFM_W_GND Istanbul West Ground
+LTFM_T_GND Istanbul Terminal Ground
+LTFM_TE_GND Istanbul Terminal East Ground
+LTFM_TW_GND Istanbul Terminal West Ground
+LTFM_FMP Istanbul Flow Manager
+LTFJ_GND G kcen Ground
+LTBJ_GND Menderes Ground
+LTBS_GND Dalaman Ground
+LTFE_GND Milas Ground
+LTAC_GND Esenboga Ground
+LTCG_GND Trabzon Ground
+LTAF_GND Adana Ground
+LTAI_GND Antalya Ground
+LTFG_GND Gazipasa Ground
+LTFC_GND Isparta Ground
+LTAN_GND Konya Ground
+LTAG_GND Incirlik Ground
+LTAU_GND Kayseri Ground
+LTAJ_GND Gaziantep Ground
+LTCC_GND Diyarbakir Ground
+LTCW_GND Yuksekyova Ground
+LTCI_GND Van Ground
+LTCB_GND Giresun Ground
+LTFH_GND Carsamba Ground
+LTCM_GND Sinop Ground
+LTBR_GND Yenisehir Ground
+LTBH_GND Canakkale Ground
+LTAY_TWR Cardak Ground
+LTCF_GND Kars Ground
+LTAS_GND Zonguldak Ground

@@ -1,0 +1,81 @@
+{
+    "LTAF": {
+        "elevation": 63,
+        "runways": "05,23",
+        "transAlt": 10000,
+        "maxInitialClimb": 14000,
+		"appSI": "AG,AN15,ANKC,ANKA,ANK",
+		"enableRVSids": false,
+        "sids": {
+            "KEMER": {
+                "1": {
+                    "designator": "A",
+                    "rwy": "05",
+					"initial": 5000,
+                    "prio": 1
+                },
+				"2": {
+                    "designator": "B",
+                    "rwy": "23",
+                    "prio": 2
+                }
+			},
+			"MANAZ": {
+                "1": {
+                    "designator": "A",
+                    "rwy": "05",
+					"initial": 5000,
+                    "prio": 1
+                },
+				"2": {
+                    "designator": "B",
+                    "rwy": "23",
+					"initial": 5000,
+                    "prio": 2
+                }
+			},
+			"MILBA": {
+                "1": {
+                    "designator": "A",
+                    "rwy": "05",
+					"initial": 5000,
+                    "prio": 1
+                },
+				"2": {
+                    "designator": "B",
+                    "rwy": "23",
+					"initial": 5000,
+                    "prio": 2
+                }
+			},
+			"YAPZU": {
+                "1": {
+                    "designator": "A",
+                    "rwy": "05",
+					"initial": 5000,
+                    "prio": 1
+                },
+				"2": {
+                    "designator": "B",
+                    "rwy": "23",
+					"initial": 5000,
+                    "prio": 2
+                }
+			},
+			"TUNLA": {
+                "1": {
+                    "designator": "A",
+                    "rwy": "05",
+					"initial": 5000,
+                    "prio": 1
+                },
+				"2": {
+                    "designator": "B",
+                    "rwy": "23",
+					"initial": 5000,
+                    "prio": 2
+                }
+			}
+		}
+    }
+}

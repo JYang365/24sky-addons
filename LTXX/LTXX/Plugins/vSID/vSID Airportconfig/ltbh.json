@@ -1,0 +1,97 @@
+{
+    "LTBH": {
+        "elevation": 30,
+        "runways": "04,22",
+        "transAlt": 10000,
+        "maxInitialClimb": 14000,
+		"appSI": "BHA,ANK2,ANWN,ANKW,ANK",
+		"enableRVSids": false,
+        "sids": {
+            "BIG": {
+                "1": {
+                    "designator": "L",
+                    "rwy": "04",
+					"initial": 14000,
+                    "prio": 1
+                },
+				"2": {
+                    "designator": "Y",
+                    "rwy": "22",
+					"initial": 14000,
+                    "prio": 1
+                },
+				"3": {
+                    "designator": "A",
+                    "rwy": "04",
+					"initial": 14000,
+					"equip": {"NON-RNAV": true},
+                    "prio": 99
+                },
+				"4": {
+                    "designator": "B",
+                    "rwy": "22",
+					"initial": 14000,
+					"equip": {"NON-RNAV": true},
+                    "prio": 99
+                },
+				"5": {
+                    "designator": "C",
+                    "rwy": "04",
+					"initial": 14000,
+					"equip": {"NON-RNAV": true},
+                    "prio": 1
+                },
+				"6": {
+                    "designator": "D",
+                    "rwy": "22",
+					"initial": 14000,
+					"equip": {"NON-RNAV": true},
+                    "prio": 1
+                },
+				"7": {
+                    "designator": "E",
+                    "rwy": "04",
+					"equip": {"NON-RNAV": true},
+                    "prio": 99
+                },
+				"8": {
+                    "designator": "F",
+                    "rwy": "22",
+					"initial": 14000,
+					"equip": {"NON-RNAV": true},
+                    "prio": 99
+                },
+				"9": {
+                    "designator": "G",
+                    "rwy": "04",
+					"initial": 14000,
+					"equip": {"NON-RNAV": true},
+                    "prio": 99
+                },
+				"10": {
+                    "designator": "H",
+                    "rwy": "22",
+					"initial": 14000,
+					"equip": {"NON-RNAV": true},
+                    "prio": 99
+                }
+			},
+			"OLDOK": {
+                "1": {
+                    "designator": "L",
+                    "rwy": "04",
+					"initial": 14000,
+                    "prio": 1
+                }
+			},
+			"SUVUP": {
+                "1": {
+                    "designator": "Y",
+                    "rwy": "22",
+					"initial": 14000,
+                    "prio": 1
+                }
+			}
+		}
+    }
+}

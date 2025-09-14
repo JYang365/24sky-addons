@@ -1,0 +1,308 @@
+========================================================
+Alias:          Heathrow
+Created:     	2016-03-31
+Last Updated:	2025-04-04
+========================================================
+
+========================================================
+New Pilots
+========================================================
+
+.prc Hello, I see you are new to the network. First of all - welcome to VATSIM! It may be tempting to jump right ahead and fly, but I would suggest you read through some documents first, in order to prepare yourself for what you may encounter. First of all - you should read the VATSIM tutorials at https://vatsim.net/prc. Here you can find everything you need. Second of all, you should read through the VATSIM Code of Conduct (https://vatsim.net/coc), especially sections A and B, in order to not get in trouble for something you didn't know.
+.srd You can find standard UK routings (domestic and to FIR exit points) in the Standard Route Document http://vats.im/srd
+.fpl There is no flight plan for your callsign, please file one. I suggest using either http://simbrief.com or http://edi-gla.co.uk to find a valid route. VATSIM CoC (B10) refers.
+.modec It is a VATSIM CoC requirement (B4(a)) for you to Squawk mode C whilst in the air. Please do so now. If you don't know how to do this, please refer to your pilot client documentation.
+.paused You seem to be paused mid-air. It is against the VATSIM CoC (B2). Please resume normal flight or disconnect.
+.accel Whilst time acceleration is permitted in uncontrolled airspace, it isn't whilst under control of ATC. Please return to normal simulation rate or disconnect. CoC B9 refers.
+.warn The VATSIM CoC (B8(c)) now REQUIRES pilots to be able to comply with ATC Instructions, such as flying headings, speeds and levels. It seems you are unable to comply or are knowingly non-compliant. If you are unable to follow further instructions, I will need to call a Supervisor.
+.mic $aircraft You have an open mic, please check your Push to Talk key/button.
+.ini Hello - You climbed above the initial climb on your departure today - please remember to check initial climb restrictions (including step climbs) on SIDs EVERY time you fly, to ensure you do not conflict with other airspace users. All UK charts are available here: https://chartfox.org/
+.iniall BROADCAST: A REMINDER TO ALWAYS CHECK SID CHARTS FOR INITIAL CLIMB RESTRICTIONS EVERY TIME YOU FLY https://chartfox.org/ NOTE THAT SIDs MAY INCLUDE STEP CLIMBS
+.mayday The VATSIM CoC (B6) states that if air traffic control requests the pilot to terminate the emergency, then the pilot must do so IMMEDIATELY or disconnect from the network. Due to controller workload I am unable to accept your emergency, please resume normal flight or disconnect.
+.runway You can not connect on a runway, please disconnect and re-connect at a stand. 
+.charts Charts relevant to your flight can be found at https://chartfox.org/egll/
+
+========================================================
+Supervisor Calls
+========================================================
+
+.wnoco .wallop $aircraft has not responded to a contact me for $1 minutes.
+.wb8 .wallop $aircraft is not able to comply with basic instructions such as flying headings, speeds and levels.
+.wmic .wallop $aircraft has a stuck mic and is not responding to messages.
+.wmayday .wallop $aircraft has called a MAYDAY but is refusing to resume normal flight or disconnect as I am not providing service to MAYDAYs at the moment.
+.wpaused .wallop $aircraft has pasued in my airspace which has added complexity and is conflicting with other traffic.
+
+========================================================
+Generic
+========================================================
+
+.v Can you receive voice?
+
+.pb Please visit the Heathrow Pilot Briefing Room (vats.im/lhrbrief) for more information on departing Heathrow and following the procedures correctly
+.scenery Are you able to confirm which scenery for London Heathrow you are using?
+
+.nfp I have not yet received a flight plan from you - please file one now and then I can issue your clearance
+.ifp27 Your flight plan is invalid. Please refile using one of the Heathrow westerly SIDs (BPK, CPT, DET, MID, SAM, WOBUN)
+.ifp09 Your flight plan is invalid. Please refile using one of the Heathrow easterly SIDs (BPK, CPT, DET, MID, SAM, BUZAD)
+.fl Your flight level needs to be $1, would you like me to change it to FL$2 or FL$3?
+.dvr The Dover (DVR) SID is no longer used at Heathrow. Please change your route to DET DCT DVR and you will use a Detling (DET) departure
+
+.sq Squawk $squawk
+.sqwk Squawk $squawk
+.squawk Squawk $squawk
+.smc Squawk Mode Charlie
+.si Squawk Ident
+
+.sicnfl Squawk Ident, climb now FL$1
+.sicnta Squawk Ident, climb now to altitude $1ft
+.sicna Squawk Ident, climb now to altitude $1ft
+.sima Squawk Ident, maintain altitude $alt
+.sirpa Squawk Ident, report your passing altitude
+.sira Squawk Ident, report your passing altitude
+.ra Report your passing altitude
+
+.rsn Report your stand number
+.rat Report your aircraft type
+.rcl Report your cleared level
+.rclat Report your cleared level and aircraft type
+.ratcl Report your cleared level and aircraft type
+.rsnat Report your aircraft type and stand number
+.ratsn Report your aircraft type and stand number
+
+.rls Request release, $aircraft, $sid departure
+.release Request release, $aircraft, $sid departure
+
+.qnh QNH $altim($arr).
+
+========================================================
+!!! CROSS THE POND !!
+========================================================
+
+.pdce .msg $aircraft $dep PDC - $time - $aircraft CLRD TO $arr OFF $deprwy VIA $sid SQUAWK $squawk. INITIAL CLIMB 6000FT. NEXT FREQ 124.480. CONTACT HEATHROW PLANNING -NOW- ON 124.480 AND REPORT ACFT TYPE AND STAND NUMBER. PDC READBACK NOT RQRD. 
+.pdcne .msg $aircraft $dep PDC - $time - $aircraft CLRD TO $arr OFF $deprwy VIA $sid SQUAWK $squawk. INITIAL CLIMB 6000FT. NEXT FREQ 124.480. CONTACT HEATHROW PLANNING WHEN READY FOR PUSHBACK ON 124.480 AND REPORT ACFT TYPE AND STAND NUMBER. PDC READBACK NOT RQRD.
+
+.pdcecpt .msg $aircraft $dep PDC - $time - $aircraft CLRD TO $arr OFF 09R VIA CPT SQUAWK $squawk. AFTER DEP CLIMB STRAIGHT AHEAD - AT LON 2 DME TURN RIGHT HDG 220 - CLIMB 6000FT. NEXT FREQ 124.480. CONTACT HEATHROW PLANNING -NOW- ON 124.480 AND REPORT ACFT TYPE AND STAND NUMBER. PDC READBACK NOT RQRD.
+.pdcnecpt .msg $aircraft $dep PDC - $time - $aircraft CLRD TO $arr OFF 09R VIA CPT SQUAWK $squawk. AFTER DEP CLIMB STRAIGHT AHEAD - AT LON 2 DME TURN RIGHT HDG 220 - CLIMB 6000FT. NEXT FREQ 124.480. CONTACT HEATHROW PLANNING WHEN READY FOR PUSHBACK ON 124.480 AND REPORT ACFT TYPE AND STAND NUMBER. PDC READBACK NOT RQRD.
+
+.tsat YOUR TTOT/CTOT (TARGET TAKEOFF / TAKEOFF SLOT) IS $1Z, EXPECT START AT TIME $2Z.
+
+========================================================
+Departure Clearance
+========================================================
+
+.pdc .msg $aircraft $dep PDC - $time - $aircraft CLRD TO $arr OFF $deprwy VIA $sid SQUAWK $squawk. INITIAL CLIMB $temp. NEXT FREQ $com. REPORT ACFT TYPE AND STAND NUMBER ON $com WHEN READY FOR PUSHBACK. PDC READBACK NOT RQRD. 
+.pdcc .msg $aircraft $dep PDC - $time - $aircraft CLRD TO $arr OFF $deprwy VIA $sid SQUAWK $squawk. INITIAL CLIMB $temp. NEXT FREQ $com. REPORT ACFT TYPE AND STAND NUMBER ON $com WHEN READY FOR PUSHBACK. SLOT TIME $1. PDC READBACK NOT RQRD. 
+.pdccpt .msg $aircraft $dep PDC - $time - $aircraft CLRD TO $arr OFF 09R VIA CPT SQUAWK $squawk. AFTER DEP CLIMB STRAIGHT AHEAD - AT LON DME 2.0 TURN RIGHT HDG 220 - CLIMB 6000 FT. NEXT FREQ $com. REPORT ACFT TYPE AND STAND NUMBER ON $com WHEN READY FOR PUSHBACK. PDC READBACK NOT RQRD.
+
+.sid Cleared to $arr, $sid departure, squawk $squawk, QNH $altim($dep)hPa
+.sidrw Cleared to $arr, $sid departure, Runway $deprwy($dep), squawk $squawk, QNH $altim($dep)hPa
+.sidi Cleared to $arr, $sid departure, initial climb $temp, squawk $squawk, QNH $altim($dep)hPa
+.sidrwi Cleared to $arr, $sid departure, Runway $deprwy($dep), initial climb $temp, squawk $squawk, QNH $altim($dep)hPa
+.sidirw Cleared to $arr, $sid departure, Runway $deprwy($dep), initial climb $temp, squawk $squawk, QNH $altim($dep)hPa
+
+.llcpt You are cleared to $arr via CPT, then flight planned route. After departure Runway 09R climb straight ahead to LON 2DME, then turn right heading 220 degrees. Climb to altitude 6000ft. Heathrow QNH $altim(egll)hPa. Squawk $squawk
+
+.09sam GASGU N866 SAM then as filed
+.27sam GOGSI N621 SAM then as filed
+.09evtes GASGU N514 EVTES then as filed
+.27evtes GOGSI N612 EVTES then as filed
+.09mid MODMI M185 MID then as filed
+.27mid MAXIT Y803 MID then as filed
+.09welin ULTIB T420 then as filed
+.27welin UMLAT T418 WELIN then as filed
+
+.rc Readback correct
+.rcq Readback correct, QNH $altim($dep)
+.ready Readback correct, report ready
+.readyq Readback correct, QNH $altim($dep), report ready
+
+========================================================
+Ground Movement
+========================================================
+
+.taxi Taxi $1 hold at $2
+.taxiv Taxi via $1, hold at $2
+.taxihs Taxi via $1, hold short of $2
+
+.sa Hold position, Start approved.
+
+.p Push and Start approved
+.push Push and Start approved
+.ps Push and Start approved, face South
+.pn Push and Start approved, face North
+.pe Push and Start approved, face East
+.pw Push and Start approved, face West
+
+.stand Taxi via $1, stand $2
+
+========================================================
+Tower
+========================================================
+
+.cr At $1, cross now Runway $2
+.bcr Behind the $1, at $1, cross Runway $2 behind
+.lu Line up Runway $deprwy($dep)
+.luv Line up Runway $deprwy($dep) via $1
+.blu Behind the $1, line up Runway $deprwy($dep) behind
+.bluv Behind the $1, line up Runway $deprwy($dep) via $2 behind
+
+.rrfd Report ready for departure
+
+.to Runway $deprwy($dep), surface wind $wind($dep), cleared for takeoff
+.tof From $1, Runway $deprwy($dep), surface wind $wind($dep), cleared for takeoff
+
+.cto Hold position, cancel take-off, I say again, cancel take-off acknowledge
+.stop Stop immediately, I say again, $aircraft, stop immediately acknowledge
+
+.ca Runway $arrrwy($arr), surface wind $wind($arr), continue approach.
+.land Runway $arrrwy($arr), surface wind $wind($arr), cleared to land.
+.tg Runway $arrrwy($arr), surface wind $wind($arr), cleared touch & go.
+.cla Runway $arrrwy($arr), surface wind $wind($arr), cleared low approach.
+.caclc Continue approach, cancel landing clearance, acknowledge.
+.wind Surface Wind $wind($arr).
+
+.ga Go around, I say again, go around, acknowledge.
+
+.vr Vacate right.
+.vl Vacate left.
+.vrt Vacate right, taxi $1.
+.vlt Vacate left, taxi $1.
+
+========================================================
+Handoffs
+========================================================
+
+.ho Contact $radioname($1) ($atccallsign($1)) $freq($1)
+.ct Contact $radioname($1) $freq($1) ($atccallsign($1))
+.cso Contact $radioname($1) ($atccallsign($1)), callsign only, $freq($1)
+.rh Report your heading to $radioname($1) ($atccallsign($1)) $freq($1)
+.rs Report your speed to $radioname($1) ($atccallsign($1)) $freq($1)
+.rhs Report your heading and speed to $radioname($1) ($atccallsign($1)) $freq($1)
+.fc Freecall $radioname($1) ($atccallsign($1)) $freq($1)
+.mon Monitor $radioname($1) ($atccallsign($1)) $freq($1)
+.uni No Further ATC available. Monitor Unicom 122.800
+.cl ALL STATIONS, ALL STATIONS, $callsign is now closing. Monitor $radioname($1) ($atccallsign($1)) $freq($1)
+.cluni ALL STATIONS, ALL STATIONS, $callsign is now closing. No other ATC available, Monitor Unicom, 122.800
+
+.833 You have been transferred to an 8.33 kHz frequency. If your aircraft's radio does not allow you to tune the exact frequency, you can use the .com1 command in your pilot client to manually tune it. Visit vats.im/833 for more details 
+
+.prenote Prenote $aircraft to $arr via $sid departure
+
+========================================================
+Approach Radar
+========================================================
+
+.ev Expect vectors for the $1 approach Runway $arrrwy($arr)
+.lr Landing Runway $arrrwy($arr)
+
+.eat Estimated approach time is $1z
+
+.lbnn Leave BNN heading $1 degrees
+.llam Leave LAM heading $1 degrees
+.lock Leave OCK heading $1 degrees
+.lbig Leave BIG heading $1 degrees
+
+.lh Leave $1 heading $2 degrees.
+
+.cta Climb to altitude $1ft
+.cnta Climb now to altitude $1ft
+.ma Maintain altitude $1ft
+.cfl Climb FL$1
+.cnfl Climb now FL$1
+
+.dtaq Descend to altitude $1ft QNH $altim($arr)
+.dta Descend to altitude $1ft
+.tm $1 track miles from touchdown Runway $arrrwy($arr),
+.tmdta $1 track miles from touchdown Runway $arrrwy($arr), descend to altitude $2ft
+.tmdtaq $1 track miles from touchdown Runway $arrrwy($arr), descend to altitude $2ft QNH $altim($arr)
+.dfl Descend FL$1
+.dfllb Descend FL$1, level by $2
+
+.ed Expedite descent
+.edtfl Expedite descent through FL$1
+.edta Expedite descent through altitude $1ft
+.ectfl Expedite climb through FL$1
+.ecta Expedite climb through altitude $1ft
+
+.s Speed $1 knots
+.rhts Reduce to holding speed
+.ns No ATC speed restriction
+
+.tl Turn left heading $1 degrees
+.tr Turn right heading $1 degrees
+.fh Fly heading $1 degrees
+.cph Continue present heading
+.cphr Continue present heading, and report that heading
+
+.rd Route Direct $1
+.rnd Resume own navigation direct $1
+.rond Resume own navigation direct $1
+
+.trlgp Turn right heading $1 degrees, when established on the localiser Runway $arrrwy($arr), descend on the glidepath
+.tllgp Turn left heading $1 degrees, when established on the localiser Runway $arrrwy($arr), descend on the glidepath
+
+.trils Turn right heading $1 degrees, cleared ILS approach Runway $arrrwy($arr)
+.tlils Turn left heading $1 degrees, cleared ILS approach Runway $arrrwy($arr)
+.cils Cleared ILS approach Runway $arrrwy($arr)
+
+.weldgp When established on the localiser Runway $arrrwy($arr), descend on the glidepath
+.weldogp When established on the localiser Runway $arrrwy($arr), descend on the glidepath
+
+.rel Report established on the localiser Runway $arrrwy($arr)
+.rle Report localiser established Runway $arrrwy($arr)
+
+.rnp Resume own navigation direct $1, cleared RNP approach Runway $arrrwy($arr)
+
+.dwp Descend with the procedure
+.dtafog Descend to altitude $1ft, further on the glidepath
+.dog Descend on the glidepath
+.dogp Descend on the glidepath
+
+.fb The field is at your $oclock($1), $dist($1) miles. Report in sight
+.cva Cleared visual approach Runway $arrrwy($arr)
+
+.s160 Speed 160 knots, maintain until 4DME
+.s170 Speed 170 knots, maintain until 5DME
+.s180 Speed 180 knots
+.s220 Speed 220 knots
+.sdme Speed $1 knots, maintain until $2DME
+.sm Speed $1 knots, maintain until $2 miles
+
+========================================================
+Hold and FIS
+========================================================
+
+.hold Hold at $1, $2 hand turns, as published. Delay $3 minutes
+.holdl Hold at $1, left hand turns, as published. Delay $2 minutes
+.holdr Hold at $1, right hand turns, as published. Delay $2 minutes
+.holdd Hold at $1, delay $2 minutes. The inbound course is $3, $4 minute legs, speed $5 knots
+
+.hbnn Hold at BNN. Delay is $1 minutes. The BNN hold is 116 inbound, right hand turns, 1 minute legs, speed 220kts
+.hlam Hold at LAM. Delay is $1 minutes. The LAM hold is 262 inbound, left hand turns, 1 minute legs, speed 220kts
+.hock Hold at OCK. Delay is $1 minutes. The OCK hold is 328 inbound, right hand turns, 1 minute legs, speed 220kts
+.hbig Hold at BIG. Delay is $1 minutes. The BIG hold is 302 inbound, right hand turns, 1 minute legs, speed 220kts
+
+.bs Basic service
+.ts Traffic service
+.ds Deconfliction service
+.ctecas Cleared to enter controlled airspace, $1
+.ctlcasvd Cleared to leave controlled airspace by descent
+
+========================================================
+Auto-alias
+========================================================
+
+.autoproceed Resume own navigation direct $1
+.autoclearedils When established on the localiser Runway $1, descend on the glidepath
+.autoclearedvisual Cleared visual approach Runway $1
+.autoclimblevel Climb FL$1
+.autoclimbaltitude Climb to altitude $1 ft
+.autodescendlevel Descend FL$1
+.autodescendaltitude Descend to altitude $1 ft, QNH $altim($arr) hPa
+.autospeed Speed $1 kts
+.automach Fly mach $1
+.autonospeed No ATC speed restriction
+.autoturnleft Turn left heading $1 degrees
+.autoturnright Turn right heading $1 degrees
+.autocontact Contact $1 $2
+.autosquawk Squawk $1

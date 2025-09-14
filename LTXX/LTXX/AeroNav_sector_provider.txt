@@ -1,0 +1,10 @@
+NAME:EuroScope main sector file provider
+URL:http://www.euroscope.hu/sectorfile/euroscope_sector_providers.txt
+LOCALFILE:./euroscope_sector_providers.txt
+NEXTDOWNLOAD:202106301114
+AUTODOWNLOAD:0
+NAME:AeroNav GNG LTXX Turkish vACC
+URL:http://files.aero-nav.com/AeroNav_LTXX_by_Aerosoft_NavDataPro.txt
+LOCALFILE:TRvACC\AeroNav_LTXX_by_Aerosoft_NavDataPro.txt
+NEXTDOWNLOAD:202110211347
+AUTODOWNLOAD:1

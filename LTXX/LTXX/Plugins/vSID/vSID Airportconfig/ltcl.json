@@ -1,0 +1,40 @@
+{
+    "LTCL": {
+        "elevation": 2000,
+        "runways": "06,24",
+        "transAlt": 12000,
+        "maxInitialClimb": 24000,
+		"appSI": "AN17,ANES,ANKE,ANKA,ANK",
+		"enableRVSids": false,
+        "sids": {
+			"VAKUL": {
+                "1": {
+                    "designator": "M",
+                    "rwy": "24",
+                    "initial": 24000,
+                    "prio": 1
+                },
+				"2": {
+                    "designator": "N",
+                    "rwy": "24",
+                    "initial": 24000,
+                    "prio": 99
+                }
+			},
+			"ABKAL": {
+                "1": {
+                    "designator": "M",
+                    "rwy": "24",
+                    "initial": 24000,
+                    "prio": 1
+                },
+				"2": {
+                    "designator": "N",
+                    "rwy": "24",
+                    "initial": 24000,
+                    "prio": 99
+                }
+			}
+		}
+    }
+}

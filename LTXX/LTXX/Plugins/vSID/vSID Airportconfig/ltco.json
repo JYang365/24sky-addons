@@ -1,0 +1,26 @@
+{
+    "LTCO": {
+        "elevation": 5461,
+        "runways": "16,34",
+        "transAlt": 15000,
+        "maxInitialClimb": 24000,
+		"appSI": "AN19,ANEN,ANKE,ANKA,ANK",
+		"enableRVSids": false,
+        "sids": {
+			"INBAT": {
+                "1": {
+                    "designator": "A",
+                    "rwy": "16",
+                    "initial": 24000,
+                    "prio": 1
+                },
+				"2": {
+                    "designator": "B",
+                    "rwy": "34",
+                    "initial": 24000,
+                    "prio": 99
+                }
+			}
+		}
+    }
+}

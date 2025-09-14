@@ -1,0 +1,142 @@
+{
+    "LTAR": {
+        "elevation": 5237,
+        "runways": "01,19",
+        "transAlt": 12000,
+        "maxInitialClimb": 24000,
+		"appSI": "AN14,ANKC,ANKA,ANK",
+		"enableRVSids": false,
+        "sids": {
+			"OLPOT": {
+                "1": {
+                    "designator": "C",
+                    "rwy": "01",
+                    "initial": 24000,
+                    "prio": 1
+                },
+				"2": {
+                    "designator": "A",
+                    "rwy": "01",
+                    "initial": 24000,
+                    "prio": 99
+                },
+				"3": {
+                    "designator": "F",
+                    "rwy": "19",
+                    "initial": 24000,
+                    "prio": 1
+                },
+				"4": {
+                    "designator": "B",
+                    "rwy": "19",
+                    "initial": 24000,
+                    "prio": 99
+                }
+			},
+			"ADVOK": {
+                "1": {
+                    "designator": "C",
+                    "rwy": "01",
+                    "initial": 24000,
+                    "prio": 1
+                },
+				"2": {
+                    "designator": "A",
+                    "rwy": "01",
+                    "initial": 24000,
+                    "prio": 99
+                },
+				"3": {
+                    "designator": "F",
+                    "rwy": "19",
+                    "initial": 24000,
+                    "prio": 1
+                },
+				"4": {
+                    "designator": "B",
+                    "rwy": "19",
+                    "initial": 24000,
+                    "prio": 99
+                }
+			},
+			"SOPOV": {
+                "1": {
+                    "designator": "C",
+                    "rwy": "01",
+                    "initial": 24000,
+                    "prio": 1
+                },
+				"2": {
+                    "designator": "A",
+                    "rwy": "01",
+                    "initial": 24000,
+                    "prio": 99
+                },
+				"3": {
+                    "designator": "F",
+                    "rwy": "19",
+                    "initial": 24000,
+                    "prio": 1
+                },
+				"4": {
+                    "designator": "B",
+                    "rwy": "19",
+                    "initial": 24000,
+                    "prio": 99
+                }
+			},
+			"OTSOV": {
+                "1": {
+                    "designator": "C",
+                    "rwy": "01",
+                    "initial": 24000,
+                    "prio": 1
+                },
+				"2": {
+                    "designator": "A",
+                    "rwy": "01",
+                    "initial": 24000,
+                    "prio": 99
+                },
+				"3": {
+                    "designator": "F",
+                    "rwy": "19",
+                    "initial": 24000,
+                    "prio": 1
+                },
+				"4": {
+                    "designator": "B",
+                    "rwy": "19",
+                    "initial": 24000,
+                    "prio": 99
+                }
+			},
+			"NUNTU": {
+                "1": {
+                    "designator": "C",
+                    "rwy": "01",
+                    "initial": 24000,
+                    "prio": 1
+                },
+				"2": {
+                    "designator": "A",
+                    "rwy": "01",
+                    "initial": 24000,
+                    "prio": 99
+                },
+				"3": {
+                    "designator": "F",
+                    "rwy": "19",
+                    "initial": 24000,
+                    "prio": 1
+                },
+				"4": {
+                    "designator": "B",
+                    "rwy": "19",
+                    "initial": 24000,
+                    "prio": 99
+                }
+			}
+		}
+    }
+}

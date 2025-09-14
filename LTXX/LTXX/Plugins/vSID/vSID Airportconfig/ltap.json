@@ -1,0 +1,159 @@
+{
+    "LTAP": {
+        "elevation": 1798,
+        "runways": "05L,05R,23R,23L",
+        "transAlt": 10000,
+        "maxInitialClimb": 24000,
+		"appSI": "AP,AN13,ANKN,ANKC,ANKA,ANK",
+		"enableRVSids": false,
+        "sids": {
+            "AKEDO": {
+                "1": {
+                    "designator": "M",
+                    "rwy": "05L",
+					"initial": 24000,
+                    "prio": 1
+                },
+				"2": {
+                    "designator": "N",
+                    "rwy": "05L",
+					"initial": 24000,
+                    "prio": 99
+                },
+				"3": {
+                    "designator": "C",
+                    "rwy": "05R",
+					"initial": 24000,
+                    "prio": 1
+                },
+				"4": {
+                    "designator": "D",
+                    "rwy": "05R",
+					"initial": 24000,
+                    "prio": 99
+                },
+				"5": {
+                    "designator": "P",
+                    "rwy": "23R",
+					"initial": 24000,
+                    "prio": 1
+                },
+				"6": {
+                    "designator": "S",
+                    "rwy": "23R",
+					"initial": 24000,
+                    "prio": 99
+                },
+				"7": {
+                    "designator": "E",
+                    "rwy": "23L",
+                    "prio": 1
+                },
+				"8": {
+                    "designator": "K",
+                    "rwy": "23L",
+					"initial": 24000,
+                    "prio": 99
+                }
+			},
+			"ERGUN": {
+                "1": {
+                    "designator": "M",
+                    "rwy": "05L",
+					"initial": 24000,
+                    "prio": 1
+                },
+				"2": {
+                    "designator": "N",
+                    "rwy": "05L",
+					"initial": 24000,
+                    "prio": 99
+                },
+				"3": {
+                    "designator": "C",
+                    "rwy": "05R",
+					"initial": 24000,
+                    "prio": 1
+                },
+				"4": {
+                    "designator": "D",
+                    "rwy": "05R",
+					"initial": 24000,
+                    "prio": 99
+                },
+				"5": {
+                    "designator": "P",
+                    "rwy": "23R",
+					"initial": 24000,
+                    "prio": 1
+                },
+				"6": {
+                    "designator": "S",
+                    "rwy": "23R",
+					"initial": 24000,
+                    "prio": 99
+                },
+				"7": {
+                    "designator": "E",
+                    "rwy": "23L",
+                    "prio": 1
+                },
+				"8": {
+                    "designator": "K",
+                    "rwy": "23L",
+					"initial": 24000,
+                    "prio": 99
+                }
+			},
+			"HAVZA": {
+                "1": {
+                    "designator": "M",
+                    "rwy": "05L",
+					"initial": 24000,
+                    "prio": 1
+                },
+				"2": {
+                    "designator": "N",
+                    "rwy": "05L",
+					"initial": 24000,
+                    "prio": 99
+                },
+				"3": {
+                    "designator": "C",
+                    "rwy": "05R",
+					"initial": 24000,
+                    "prio": 1
+                },
+				"4": {
+                    "designator": "D",
+                    "rwy": "05R",
+					"initial": 24000,
+                    "prio": 99
+                },
+				"5": {
+                    "designator": "P",
+                    "rwy": "23R",
+					"initial": 24000,
+                    "prio": 1
+                },
+				"6": {
+                    "designator": "S",
+                    "rwy": "23R",
+					"initial": 24000,
+                    "prio": 99
+                },
+				"7": {
+                    "designator": "E",
+                    "rwy": "23L",
+                    "prio": 1
+                },
+				"8": {
+                    "designator": "K",
+                    "rwy": "23L",
+					"initial": 24000,
+                    "prio": 99
+                }
+			}
+		}
+    }
+}

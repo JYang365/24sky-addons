@@ -1,0 +1,25 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+ARTCC boundary:FIR border LTAA:
+ARTCC boundary:FIR border LTBB:
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:271.00000
+TAGFAMILY:ACC_Default
+WINDOWAREA:41.236897:28.660596:41.294157:28.804129
+PLUGIN:Ground Radar plugin:AirportElevation:325
+PLUGIN:Ground Radar plugin:AirportRadius:2.5
+PLUGIN:Ground Radar plugin:GroundMode:IRFD
+PLUGIN:Ground Radar plugin:HideMapData:IRFDGND

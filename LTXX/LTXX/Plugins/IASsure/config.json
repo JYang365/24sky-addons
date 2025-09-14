@@ -1,0 +1,10 @@
+{
+    "mach":{
+        "digits":2,
+        "thresholdFL":250,
+		"prefix":"m"
+    },
+    "ias":{
+		"prefix":" "
+	}
+}

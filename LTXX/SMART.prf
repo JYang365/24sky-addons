@@ -1,0 +1,85 @@
+Settings	SettingsfileSYMBOLOGY	\LTXX\Settings\SMART\Symbology.txt
+Settings	SettingsfileVOICE	\LTXX\Settings\VoiceChannels.txt
+Settings	SettingsfilePROFILE	\LTXX\Settings\Profiles.txt
+Settings	SettingsfileTAGS	\LTXX\Settings\SMART\Tag definitions.txt
+Settings	SettingsfileSIL	\LTXX\Settings\SMART\Sector Inbound List.txt
+Settings	SettingsfileSEL	\LTXX\Settings\SMART\Sector Exit List.txt
+Settings	SettingsfileDEP	\LTXX\Settings\SMART\Departure List.txt
+Settings	SettingsfileARR	\LTXX\Settings\SMART\Arrival List.txt
+Settings	SettingsfileFP	\LTXX\Settings\SMART\Flight plan list.txt
+Settings	SettingsfilePLUGINS	\LTXX\Settings\SMART\Plug-in List.txt
+Settings	Settingsfile	\LTXX\Settings\SMART\General Settings.txt
+Settings	SettingsfileSCREEN	\LTXX\Settings\SMART\Screen Layout.txt
+Settings	SettingsfileCONFLICT	\LTXX\Settings\SMART\Conflict list config.txt
+Settings	SettingsfileVCCS	\LTXX\Settings\VCCS config.txt
+Settings	SettingsfilePILOTING	\LTXX\Settings\SMART\Piloting List config.txt
+Settings	alias	\LTXX\TRvACC Alias.txt
+Settings	airportcoords	\LTXX\NavData\icao.txt
+Settings	airlines	\LTXX\ICAO\ICAO_Airlines.txt
+Settings	airports	\LTXX\ICAO\ICAO_Airports.txt
+Settings	aircraft	\LTXX\ICAO\ICAO_Aircraft.txt
+Settings	airways	\LTXX\NavData\airway.txt
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
+Plugins	Plugin0	\LTXX\Plugins\AFVBridge\AfvEuroScopeBridge.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin1	\LTXX\Plugins\Discord Euroscope\DiscordEuroscope.dll
+Plugins	Plugin1Display0	Standard ES radar screen
+Plugins	Plugin2	\LTXX\Plugins\RDF\RDFPlugin.dll
+Plugins	Plugin2Display0	Standard ES radar screen
+Plugins	Plugin3	\LTXX\Plugins\GRP\LTAA\GRplugin.dll
+Plugins	Plugin3Display0	Ground Radar display
+Plugins	Plugin4	\LTXX\Plugins\TopSky SMART\TopSky.dll
+Plugins	Plugin4Display0	Standard ES radar screen
+Plugins	Plugin4Display1	Ground Radar display
+Plugins	Plugin5	\LTXX\Plugins\AMAN\Aman.dll
+Plugins	Plugin5Display0	Standard ES radar screen
+Plugins	Plugin6	\LTXX\Plugins\CCAMS\CCAMS.dll
+Plugins	Plugin7	\LTXX\Plugins\IASsure\IASsure.dll
+Plugins	Plugin7Display0	Standard ES radar screen
+Plugins	Plugin8	\LTXX\Plugins\vSID\vSID Plugin\vSID.dll
+Plugins	Plugin8Display0	Standard ES radar screen
+Sounds	Sound0	\LTXX\Sounds\handoff_request.wav
+Sounds	Sound1	\LTXX\Sounds\handoff_accept.wav
+Sounds	Sound2	\LTXX\Sounds\conflict_alert.wav
+Sounds	Sound3	\LTXX\Sounds\radio_message.wav
+Sounds	Sound4	\LTXX\Sounds\private_message.wav
+Sounds	Sound5	\LTXX\Sounds\atc_message.wav
+Sounds	Sound6	\LTXX\Sounds\broadcast_message.wav
+Sounds	Sound7	\LTXX\Sounds\landline_request.wav
+Sounds	Sound8	\LTXX\Sounds\supervisor_message.wav
+Sounds	Sound9	\LTXX\Sounds\connected.wav
+Sounds	Sound10	\LTXX\Sounds\disconnected.wav
+Sounds	Sound11	\LTXX\Sounds\ongoing_request.wav
+Sounds	Sound12	\LTXX\Sounds\ongoing_accepted.wav
+Sounds	Sound13	\LTXX\Sounds\ongoing_refused.wav
+Sounds	Sound14	\LTXX\Sounds\ongoing_manual.wav
+Sounds	Sound15	\LTXX\Sounds\new_atis.wav
+Sounds	Sound16	\LTXX\Sounds\handoff_refused.wav
+Sounds	Sound17	\LTXX\Sounds\pointout.wav
+Sounds	Sound18	\LTXX\Sounds\startup.wav
+TeamSpeakVccs	TsVccsMiniControlX	696
+TeamSpeakVccs	TsVccsMiniControlY	25
+TeamSpeakVccs	Ts3DialogLeft	0
+TeamSpeakVccs	Ts3DialogTop	0
+TeamSpeakVccs	Ts3DialogRight	750
+TeamSpeakVccs	Ts3DialogBottom	600
+Settings	sector	\ATC24-Sector-File.sct
+LastSession	atis_freq4	118000
+LastSession	connecttype	0
+LastSession	rating	0
+LastSession	server	127.0.0.1
+LastSession	tovatsim	0
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
+RecentFiles	Recent1	\LTXX\ASR\SMART\SMART.asr
+LastSession	callsign	ANK_10_CTR
+LastSession	realname	1
+LastSession	certificate	1
+LastSession	password	1
+LastSession	facility	6
+LastSession	atis2	Ankara Control - DCL & CPDLC available [LT10]
+LastSession	atis3	Airspace Map - vatglasses.uk/turkiye 
+LastSession	atis4	Info at trvacc.net - Feedback at vats.im/tr/feedback
+LastSession	range	300
+RecentFiles	Recent2	\LTXX\ASR\GRP\IRFD\Rockford SMR.asr

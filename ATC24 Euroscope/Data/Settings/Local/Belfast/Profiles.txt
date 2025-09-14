@@ -1,0 +1,30 @@
+PROFILE
+PROFILE:EGAA_GND:20:3
+ATIS2:Aldergrove Ground
+ATIS3:INITIAL CLIMB AS INSTRUCTED BY ATC
+ATIS4:Submit feedback at vatsim.uk/atcfb?cid=1634627
+PROFILE:EGAA_TWR:40:4
+ATIS2:Aldergrove Tower
+ATIS3:INITIAL CLIMB AS INSTRUCTED BY ATC
+ATIS4:Submit feedback at vatsim.uk/atcfb?cid=1634627
+PROFILE:EGAA_APP:100:5
+ATIS2:Aldergrove Radar (EGAA & EGAC)
+ATIS3:Covers UKFIS in Northern Ireland
+ATIS4:Submit feedback at vatsim.uk/atcfb?cid=1634627
+PROFILE:EGAA_F_APP:100:5
+ATIS2:Aldergrove Director
+ATIS3:INITIAL CLIMB AS INSTRUCTED BY ATC
+ATIS4:Submit feedback at vatsim.uk/atcfb?cid=1634627
+PROFILE:EGAC_TWR:40:4
+ATIS2:Belfast Tower
+ATIS3:INITIAL CLIMB AS INSTRUCTED BY ATC
+ATIS4:Submit feedback at vatsim.uk/atcfb?cid=1634627
+PROFILE:EGAC_APP:100:5
+ATIS2:Belfast Radar
+ATIS3:INITIAL CLIMB AS INSTRUCTED BY ATC
+ATIS4:Submit feedback at vatsim.uk/atcfb?cid=1634627
+PROFILE:EGAC_F_APP:100:5
+ATIS2:Belfast Radar
+ATIS3:INITIAL CLIMB AS INSTRUCTED BY ATC
+ATIS4:Submit feedback at vatsim.uk/atcfb?cid=1634627
+END

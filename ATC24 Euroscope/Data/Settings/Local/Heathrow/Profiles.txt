@@ -1,0 +1,42 @@
+PROFILE
+PROFILE:EGLL_N_APP:100:5
+ATIS2:Heathrow Director
+ATIS3:INITIAL CLIMB ALTITUDE 6000 FEET
+ATIS4:Submit feedback at vatsim.uk/atcfb?cid=1634627
+PROFILE:EGLL_S_APP:100:5
+ATIS2:Heathrow Director
+ATIS3:INITIAL CLIMB ALTITUDE 6000 FEET
+ATIS4:Submit feedback at vatsim.uk/atcfb?cid=1634627
+PROFILE:EGLL_F_APP:80:5
+ATIS2:Heathrow Director
+ATIS3:INITIAL CLIMB ALTITUDE 6000 FEET
+ATIS4:Submit feedback at vatsim.uk/atcfb?cid=1634627
+PROFILE:EGLL_S_TWR:30:4
+ATIS2:Heathrow Tower
+ATIS3:INITIAL CLIMB ALTITUDE 6000 FEET
+ATIS4:Submit feedback at vatsim.uk/atcfb?cid=1634627
+PROFILE:EGLL_N_TWR:30:4
+ATIS2:Heathrow Tower
+ATIS3:INITIAL CLIMB ALTITUDE 6000 FEET
+ATIS4:Submit feedback at vatsim.uk/atcfb?cid=1634627
+PROFILE:EGLL_2_GND:20:3
+ATIS2:Heathrow Ground
+ATIS3:INITIAL CLIMB ALTITUDE 6000 FEET
+ATIS4:Submit feedback at vatsim.uk/atcfb?cid=1634627
+PROFILE:EGLL_3_GND:20:3
+ATIS2:Heathrow Ground
+ATIS3:INITIAL CLIMB ALTITUDE 6000 FEET
+ATIS4:Submit feedback at vatsim.uk/atcfb?cid=1634627
+PROFILE:EGLL_1_GND:20:3
+ATIS2:Heathrow Ground
+ATIS3:INITIAL CLIMB ALTITUDE 6000 FEET
+ATIS4:Submit feedback at vatsim.uk/atcfb?cid=1634627
+PROFILE:EGLL_P_GND:20:2
+ATIS2:Heathrow Planner
+ATIS3:INITIAL CLIMB ALTITUDE 6000 FEET
+ATIS4:Submit feedback at vatsim.uk/atcfb?cid=1634627
+PROFILE:EGLL_DEL:20:2
+ATIS2:Heathrow Delivery | PDC [EGLL]
+ATIS3:INITIAL CLIMB ALTITUDE 6000 FEET
+ATIS4:Submit feedback at vatsim.uk/atcfb?cid=1634627
+END

@@ -1,0 +1,332 @@
+{
+    "LTAC": {
+        "elevation": 3127,
+        "runways": "03L,03R,21L,21R",
+        "transAlt": 10000,
+        "maxInitialClimb": 16000,
+		"appSI": "AC,AN11,ANKC,ANKA,ANK",
+		"enableRVSids": false,
+        "sids": {
+            "GURBU": {
+                "1": {
+                    "designator": "T",
+                    "rwy": "03L,03R",
+                    "initial": 13000,
+                    "prio": 1
+                },
+				"2": {
+                    "designator": "A",
+                    "rwy": "03L,03R",
+                    "initial": 13000,
+					"equip": {"NON-RNAV": true, "RNAV": true},
+                    "prio": 2
+                },
+				"3": {
+                    "designator": "B",
+                    "rwy": "21L,21R",
+                    "initial": 13000,
+					"equip": {"NON-RNAV": true, "RNAV": true},
+                    "prio": 1
+                }
+			},
+			"UMRUN": {
+                "1": {
+                    "designator": "T",
+                    "rwy": "03L,03R",
+                    "initial": 14000,
+                    "prio": 1
+                }
+			},
+			"ILHAN": {
+                "1": {
+                    "designator": "T",
+                    "rwy": "03L,03R",
+                    "initial": 13000,
+                    "prio": 1
+                },
+				"2": {
+                    "designator": "A",
+                    "rwy": "03L,03R",
+                    "initial": 13000,
+					"equip": {"NON-RNAV": true, "RNAV": true},
+                    "prio": 2
+                },
+				"3": {
+                    "designator": "B",
+                    "rwy": "21L,21R",
+                    "initial": 13000,
+					"equip": {"NON-RNAV": true, "RNAV": true},
+                    "prio": 1
+                }
+			},
+			"GOBIT": {
+                "1": {
+                    "designator": "T",
+                    "rwy": "03L,03R",
+                    "initial": 13000,
+                    "prio": 1
+                },
+				"2": {
+                    "designator": "D",
+                    "rwy": "21L,21R",
+                    "initial": 15000,
+                    "prio": 1
+                }
+			},
+			"YUCEL": {
+                "1": {
+                    "designator": "T",
+                    "rwy": "03L,03R",
+                    "initial": 13000,
+                    "prio": 1
+                },
+				"2": {
+                    "designator": "A",
+                    "rwy": "03L,03R",
+                    "initial": 13000,
+					"equip": {"NON-RNAV": true, "RNAV": true},
+                    "prio": 2
+                },
+				"3": {
+                    "designator": "B",
+                    "rwy": "21L,21R",
+                    "initial": 13000,
+					"equip": {"NON-RNAV": true, "RNAV": true},
+                    "prio": 1
+                }
+			},
+			"BAKIR": {
+                "1": {
+                    "designator": "T",
+                    "rwy": "03L,03R",
+                    "initial": 13000,
+                    "prio": 1
+                },
+				"2": {
+                    "designator": "A",
+                    "rwy": "03L,03R",
+                    "initial": 13000,
+					"equip": {"NON-RNAV": true, "RNAV": true},
+                    "prio": 2
+                },
+				"3": {
+                    "designator": "B",
+                    "rwy": "21L,21R",
+                    "initial": 13000,
+					"equip": {"NON-RNAV": true, "RNAV": true},
+                    "prio": 1
+                }
+			},
+			"TELVO": {
+                "1": {
+                    "designator": "T",
+                    "rwy": "03L,03R",
+                    "initial": 13000,
+                    "prio": 1
+                },
+				"2": {
+                    "designator": "A",
+                    "rwy": "03L,03R",
+                    "initial": 13000,
+					"equip": {"NON-RNAV": true, "RNAV": true},
+                    "prio": 2
+                },
+				"3": {
+                    "designator": "B",
+                    "rwy": "21L,21R",
+                    "initial": 13000,
+					"equip": {"NON-RNAV": true, "RNAV": true},
+                    "prio": 99
+                },
+				"4": {
+                    "designator": "D",
+                    "rwy": "21L,21R",
+                    "initial": 15000,
+                    "prio": 1
+                }
+			},
+			"ASTAL": {
+                "1": {
+                    "designator": "T",
+                    "rwy": "03L,03R",
+                    "initial": 14000,
+                    "prio": 1
+                },
+				"2": {
+                    "designator": "A",
+                    "rwy": "03L,03R",
+                    "initial": 14000,
+					"equip": {"NON-RNAV": true, "RNAV": true},
+                    "prio": 2
+                },
+				"3": {
+                    "designator": "B",
+                    "rwy": "21L,21R",
+                    "initial": 14000,
+					"equip": {"NON-RNAV": true, "RNAV": true},
+                    "prio": 1
+                }
+			},
+			"DEREL": {
+                "1": {
+                    "designator": "T",
+                    "rwy": "03L,03R",
+                    "initial": 14000,
+                    "prio": 1
+                },
+				"2": {
+                    "designator": "A",
+                    "rwy": "03L,03R",
+                    "initial": 13000,
+					"equip": {"NON-RNAV": true, "RNAV": true},
+                    "prio": 2
+                },
+				"3": {
+                    "designator": "B",
+                    "rwy": "21L,21R",
+                    "initial": 13000,
+					"equip": {"NON-RNAV": true, "RNAV": true},
+                    "prio": 99
+                },
+				"4": {
+                    "designator": "D",
+                    "rwy": "21L,21R",
+                    "initial": 16000,
+                    "prio": 1
+                }
+			},
+			"YAVRU": {
+                "1": {
+                    "designator": "T",
+                    "rwy": "03L,03R",
+                    "initial": 14000,
+                    "prio": 1
+                },
+				"2": {
+                    "designator": "D",
+                    "rwy": "21L,21R",
+                    "initial": 16000,
+                    "prio": 1
+                }
+			},
+			"LATGA": {
+                "1": {
+                    "designator": "T",
+                    "rwy": "03L,03R",
+                    "initial": 14000,
+                    "prio": 1
+                },
+				"2": {
+                    "designator": "A",
+                    "rwy": "03L,03R",
+                    "initial": 13000,
+					"equip": {"NON-RNAV": true, "RNAV": true},
+                    "prio": 2
+                },
+				"3": {
+                    "designator": "B",
+                    "rwy": "21L,21R",
+                    "initial": 13000,
+					"equip": {"NON-RNAV": true, "RNAV": true},
+                    "prio": 99
+                },
+				"4": {
+                    "designator": "D",
+                    "rwy": "21L,21R",
+                    "initial": 16000,
+                    "prio": 1
+                }
+			},
+			"HALIL": {
+                "1": {
+                    "designator": "T",
+                    "rwy": "03L,03R",
+                    "initial": 14000,
+                    "prio": 1
+                },
+				"2": {
+                    "designator": "A",
+                    "rwy": "03L,03R",
+                    "initial": 13000,
+					"equip": {"NON-RNAV": true, "RNAV": true},
+                    "prio": 2
+                },
+				"3": {
+                    "designator": "B",
+                    "rwy": "21L,21R",
+                    "initial": 13000,
+					"equip": {"NON-RNAV": true, "RNAV": true},
+                    "prio": 99
+                },
+				"4": {
+                    "designator": "D",
+                    "rwy": "21L,21R",
+                    "initial": 15000,
+                    "prio": 1
+                }
+			},
+			"EKMEK": {
+                "1": {
+                    "designator": "D",
+                    "rwy": "21L,21R",
+                    "initial": 15000,
+                    "prio": 1
+                }
+			},
+			"BENTA": {
+                "1": {
+                    "designator": "D",
+                    "rwy": "21L,21R",
+                    "initial": 15000,
+                    "prio": 1
+                }
+			},
+			"BALAX": {
+                "1": {
+                    "designator": "D",
+                    "rwy": "21L,21R",
+                    "initial": 15000,
+                    "prio": 1
+                }
+			},
+			"AZBUL": {
+                "1": {
+                    "designator": "D",
+                    "rwy": "21L,21R",
+                    "initial": 15000,
+                    "prio": 1
+                }
+			},
+			"PETAR": {
+                "1": {
+                    "designator": "D",
+                    "rwy": "21L,21R",
+                    "initial": 16000,
+                    "prio": 1
+                },
+				"2": {
+                    "designator": "A",
+                    "rwy": "03L,03R",
+                    "initial": 13000,
+					"equip": {"NON-RNAV": true, "RNAV": true},
+                    "prio": 1
+                },
+				"3": {
+                    "designator": "B",
+                    "rwy": "21L,21R",
+                    "initial": 13000,
+					"equip": {"NON-RNAV": true, "RNAV": true},
+                    "prio": 2
+                }
+			},
+			"NEMRO": {
+                "1": {
+                    "designator": "D",
+                    "rwy": "21L,21R",
+                    "initial": 15000,
+                    "prio": 1
+                }
+			}
+		}
+    }
+}

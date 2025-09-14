@@ -1,0 +1,168 @@
+{
+    "LTCC": {
+        "elevation": 2260,
+        "runways": "16R,16L,34L,34R",
+        "transAlt": 10000,
+        "maxInitialClimb": 24000,
+		"appSI": "CC,AN16,ANES,ANKE,ANKA,ANK",
+		"enableRVSids": false,
+        "sids": {
+			"ATLOM": {
+                "1": {
+                    "designator": "W",
+                    "rwy": "16L,16R",
+                    "initial": 24000,
+                    "prio": 1
+                },
+				"2": {
+                    "designator": "Y",
+                    "rwy": "34L,34R",
+                    "initial": 24000,
+                    "prio": 1
+                },
+				"3": {
+                    "designator": "J",
+                    "rwy": "34L,34R",
+                    "initial": 24000,
+                    "prio": 99
+                },
+				"4": {
+                    "designator": "X",
+                    "rwy": "34L,34R",
+                    "initial": 24000,
+                    "prio": 99
+                }
+			},
+			"DEMEB": {
+                "1": {
+                    "designator": "W",
+                    "rwy": "16L,16R",
+                    "initial": 24000,
+                    "prio": 1
+                },
+				"2": {
+                    "designator": "Y",
+                    "rwy": "34L,34R",
+                    "initial": 24000,
+                    "prio": 1
+                },
+				"3": {
+                    "designator": "J",
+                    "rwy": "34L,34R",
+                    "initial": 24000,
+                    "prio": 99
+                },
+				"4": {
+                    "designator": "X",
+                    "rwy": "34L,34R",
+                    "initial": 24000,
+                    "prio": 99
+                }
+			},
+			"LEKRO": {
+                "1": {
+                    "designator": "W",
+                    "rwy": "16L,16R",
+                    "initial": 24000,
+                    "prio": 1
+                },
+				"2": {
+                    "designator": "Y",
+                    "rwy": "34L,34R",
+                    "initial": 24000,
+                    "prio": 1
+                },
+				"3": {
+                    "designator": "J",
+                    "rwy": "34L,34R",
+                    "initial": 24000,
+                    "prio": 99
+                },
+				"4": {
+                    "designator": "X",
+                    "rwy": "34L,34R",
+                    "initial": 24000,
+                    "prio": 99
+                }
+			},
+			"MOVUL": {
+                "1": {
+                    "designator": "W",
+                    "rwy": "16L,16R",
+                    "initial": 24000,
+                    "prio": 1
+                },
+				"2": {
+                    "designator": "Y",
+                    "rwy": "34L,34R",
+                    "initial": 24000,
+                    "prio": 1
+                },
+				"3": {
+                    "designator": "J",
+                    "rwy": "34L,34R",
+                    "initial": 24000,
+                    "prio": 99
+                },
+				"4": {
+                    "designator": "X",
+                    "rwy": "34L,34R",
+                    "initial": 24000,
+                    "prio": 99
+                }
+			},
+			"SUMAP": {
+                "1": {
+                    "designator": "W",
+                    "rwy": "16L,16R",
+                    "initial": 24000,
+                    "prio": 1
+                },
+				"2": {
+                    "designator": "Y",
+                    "rwy": "34L,34R",
+                    "initial": 24000,
+                    "prio": 1
+                },
+				"3": {
+                    "designator": "J",
+                    "rwy": "34L,34R",
+                    "initial": 24000,
+                    "prio": 99
+                },
+				"4": {
+                    "designator": "X",
+                    "rwy": "34L,34R",
+                    "initial": 24000,
+                    "prio": 99
+                }
+			},
+			"ZUITA": {
+                "1": {
+                    "designator": "W",
+                    "rwy": "16L,16R",
+                    "initial": 24000,
+                    "prio": 1
+                },
+				"2": {
+                    "designator": "Y",
+                    "rwy": "34L,34R",
+                    "initial": 24000,
+                    "prio": 1
+                },
+				"3": {
+                    "designator": "J",
+                    "rwy": "34L,34R",
+                    "initial": 24000,
+                    "prio": 99
+                },
+				"4": {
+                    "designator": "X",
+                    "rwy": "34L,34R",
+                    "initial": 24000,
+                    "prio": 99
+                }
+			}
+		}
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "LTFO": {
+        "elevation": 16,
+        "runways": "06,24",
+        "transAlt": 15000,
+        "maxInitialClimb": 12000,
+		"appSI": "AN18, ANEN, ANKE, ANKA, ANK",
+		"enableRVSids": false,
+        "sids": {
+			"ZUBRE": {
+                "1": {
+                    "designator": "M",
+                    "rwy": "06",
+                    "initial": 12000,
+                    "prio": 1
+                },
+				"2": {
+                    "designator": "N",
+                    "rwy": "24",
+                    "initial": 12000,
+                    "prio": 1
+                },
+				"3": {
+                    "designator": "V",
+                    "rwy": "06",
+                    "initial": 12000,
+                    "prio": 2
+                },
+				"4": {
+                    "designator": "T",
+                    "rwy": "24",
+                    "initial": 12000,
+                    "prio": 2
+                }
+			},
+			"ATCEF": {
+                "1": {
+                    "designator": "M",
+                    "rwy": "06",
+                    "initial": 12000,
+                    "prio": 1
+                },
+				"2": {
+                    "designator": "N",
+                    "rwy": "24",
+                    "initial": 12000,
+                    "prio": 1
+                },
+				"3": {
+                    "designator": "V",
+                    "rwy": "06",
+                    "initial": 12000,
+                    "prio": 2
+                },
+				"4": {
+                    "designator": "T",
+                    "rwy": "24",
+                    "initial": 12000,
+                    "prio": 2
+                }
+			},
+			"IFEMU": {
+                "1": {
+                    "designator": "M",
+                    "rwy": "06",
+                    "initial": 12000,
+                    "prio": 1
+                },
+				"2": {
+                    "designator": "N",
+                    "rwy": "24",
+                    "initial": 12000,
+                    "prio": 1
+                },
+				"3": {
+                    "designator": "V",
+                    "rwy": "06",
+                    "initial": 12000,
+                    "prio": 2
+                },
+				"4": {
+                    "designator": "T",
+                    "rwy": "24",
+                    "initial": 12000,
+                    "prio": 2
+                }
+			},
+			"ALNOZ": {
+                "1": {
+                    "designator": "M",
+                    "rwy": "06",
+                    "initial": 12000,
+                    "prio": 1
+                },
+				"2": {
+                    "designator": "N",
+                    "rwy": "24",
+                    "initial": 12000,
+                    "prio": 1
+                }
+			}
+		}
+    }
+}

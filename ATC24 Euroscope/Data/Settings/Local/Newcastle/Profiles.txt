@@ -1,0 +1,18 @@
+PROFILE
+PROFILE:EGNT_GND:20:3
+ATIS2:Newcastle Ground
+ATIS3:INITIAL CLIMB AS INSTRUCTED BY ATC
+ATIS4:Submit feedback at vatsim.uk/atcfb?cid=1634627
+PROFILE:EGNT_TWR:50:4
+ATIS2:Newcastle Tower
+ATIS3:INITIAL CLIMB AS INSTRUCTED BY ATC
+ATIS4:Submit feedback at vatsim.uk/atcfb?cid=1634627
+PROFILE:EGNT_APP:100:5
+ATIS2:Newcastle Radar
+ATIS3:INITIAL CLIMB AS INSTRUCTED BY ATC
+ATIS4:Submit feedback at vatsim.uk/atcfb?cid=1634627
+PROFILE:EGNT_F_APP:100:5
+ATIS2:Newcastle Director
+ATIS3:INITIAL CLIMB AS INSTRUCTED BY ATC
+ATIS4:Submit feedback at vatsim.uk/atcfb?cid=1634627
+END

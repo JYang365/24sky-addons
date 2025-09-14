@@ -1,0 +1,25 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\yangg\AppData\Roaming\EuroScope\LTXX\LTXX-LTXX_20250406210841-241301-0017.sct
+SECTORTITLE:LTXX-LTXX_20250406210841-241301-0017.sct
+ARTCC boundary:FIR border LTAA:
+ARTCC boundary:FIR border LTBB:
+SHOWC:0
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:41.238947:28.682314:41.292814:28.815584
+PLUGIN:Ground Radar plugin:AirportElevation:325
+PLUGIN:Ground Radar plugin:AirportRadius:2.5
+PLUGIN:Ground Radar plugin:GroundMode:LTFM
+PLUGIN:Ground Radar plugin:HideMapData:LTFMTWR

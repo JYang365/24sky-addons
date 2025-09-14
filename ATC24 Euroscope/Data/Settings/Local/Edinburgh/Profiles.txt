@@ -1,0 +1,22 @@
+PROFILE
+PROFILE:EGPH_APP:100:5
+ATIS2:Edinburgh Radar
+ATIS3:INITIAL CLIMB ALTITUDE 6000 FEET
+ATIS4:Submit feedback at vatsim.uk/atcfb?cid=1634627
+PROFILE:EGPH_F_APP:100:5
+ATIS2:Edinburgh Radar
+ATIS3:INITIAL CLIMB ALTITUDE 6000 FEET
+ATIS4:Submit feedback at vatsim.uk/atcfb?cid=1634627
+PROFILE:EGPH_TWR:30:4
+ATIS2:Edinburgh Tower
+ATIS3:INITIAL CLIMB ALTITUDE 6000 FEET
+ATIS4:Submit feedback at vatsim.uk/atcfb?cid=1634627
+PROFILE:EGPH_GND:10:3
+ATIS2:Edinburgh Ground
+ATIS3:INITIAL CLIMB ALTITUDE 6000 FEET
+ATIS4:Submit feedback at vatsim.uk/atcfb?cid=1634627
+PROFILE:EGPH_DEL:10:2
+ATIS2:Edinburgh Delivery
+ATIS3:INITIAL CLIMB ALTITUDE 6000 FEET
+ATIS4:Submit feedback at vatsim.uk/atcfb?cid=1634627
+END

@@ -1,0 +1,18 @@
+PROFILE
+PROFILE:EGGP_APP:100:5
+ATIS2:Liverpool Radar
+ATIS3:INITIAL CLIMB AS INSTRUCTED BY ATC
+ATIS4:Submit feedback at vatsim.uk/atcfb?cid=1634627
+PROFILE:EGGP_F_APP:100:5
+ATIS2:Liverpool Director
+ATIS3:INITIAL CLIMB AS INSTRUCTED BY ATC
+ATIS4:Submit feedback at vatsim.uk/atcfb?cid=1634627
+PROFILE:EGGP_TWR:30:4
+ATIS2:Liverpool Tower
+ATIS3:INITIAL CLIMB AS INSTRUCTED BY ATC
+ATIS4:Submit feedback at vatsim.uk/atcfb?cid=1634627
+PROFILE:EGGP_GND:10:3
+ATIS2:Liverpool Ground
+ATIS3:INITIAL CLIMB AS INSTRUCTED BY ATC
+ATIS4:Submit feedback at vatsim.uk/atcfb?cid=1634627
+END

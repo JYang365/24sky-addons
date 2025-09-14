@@ -1,0 +1,398 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\yangg\Documents\ATC24\ATC24 Euroscope\Data\Sector\ATC24-Sector-File.sct
+SECTORTITLE:ATC24-Sector-File.sct
+ARTCC high boundary:IBTH:
+ARTCC high boundary:IDCS:
+ARTCC high boundary:IGAR:
+ARTCC high boundary:IGRV:
+ARTCC high boundary:IIAB:
+ARTCC high boundary:ILAR:
+ARTCC high boundary:IMLR:
+ARTCC high boundary:IPAP:
+ARTCC high boundary:IPPH:
+ARTCC high boundary:IRFD:
+ARTCC high boundary:ISAU:
+ARTCC high boundary:ISCM:
+ARTCC high boundary:ISKP:
+ARTCC high boundary:ITKO:
+ARTCC high boundary:IZOL:
+Fixes:ABSRS:name
+Fixes:ABSRS:symbol
+Fixes:ACRES:name
+Fixes:ACRES:symbol
+Fixes:ALDER:name
+Fixes:ALDER:symbol
+Fixes:ALLRY:name
+Fixes:ALLRY:symbol
+Fixes:ALTRS:name
+Fixes:ALTRS:symbol
+Fixes:ANYMS:name
+Fixes:ANYMS:symbol
+Fixes:AQWRT:name
+Fixes:AQWRT:symbol
+Fixes:ASTRO:name
+Fixes:ASTRO:symbol
+Fixes:ATPEV:name
+Fixes:ATPEV:symbol
+Fixes:BEANS:name
+Fixes:BEANS:symbol
+Fixes:BILLO:name
+Fixes:BILLO:symbol
+Fixes:BLANK:name
+Fixes:BLANK:symbol
+Fixes:BOBOS:name
+Fixes:BOBOS:symbol
+Fixes:BOBUX:name
+Fixes:BOBUX:symbol
+Fixes:BUCFA:name
+Fixes:BUCFA:symbol
+Fixes:BULLY:name
+Fixes:BULLY:symbol
+Fixes:CAMEL:name
+Fixes:CAMEL:symbol
+Fixes:CAWZE:name
+Fixes:CAWZE:symbol
+Fixes:CELAR:name
+Fixes:CELAR:symbol
+Fixes:CHAIN:name
+Fixes:CHAIN:symbol
+Fixes:CHILY:name
+Fixes:CHILY:symbol
+Fixes:CRAZY:name
+Fixes:CRAZY:symbol
+Fixes:CYRIL:name
+Fixes:CYRIL:symbol
+Fixes:DEATH:name
+Fixes:DEATH:symbol
+Fixes:DEBUG:name
+Fixes:DEBUG:symbol
+Fixes:DINER:name
+Fixes:DINER:symbol
+Fixes:DOGGO:name
+Fixes:DOGGO:symbol
+Fixes:DUNKS:name
+Fixes:DUNKS:symbol
+Fixes:EMJAY:name
+Fixes:EMJAY:symbol
+Fixes:ENDER:name
+Fixes:ENDER:symbol
+Fixes:EURAD:name
+Fixes:EURAD:symbol
+Fixes:EXMOR:name
+Fixes:EXMOR:symbol
+Fixes:EZYDB:name
+Fixes:EZYDB:symbol
+Fixes:FORCE:name
+Fixes:FORCE:symbol
+Fixes:FORIA:name
+Fixes:FORIA:symbol
+Fixes:FRANK:name
+Fixes:FRANK:symbol
+Fixes:FROOT:name
+Fixes:FROOT:symbol
+Fixes:GAVIN:name
+Fixes:GAVIN:symbol
+Fixes:GEORG:name
+Fixes:GEORG:symbol
+Fixes:GERLD:name
+Fixes:GERLD:symbol
+Fixes:GODLU:name
+Fixes:GODLU:symbol
+Fixes:GRASS:name
+Fixes:GRASS:symbol
+Fixes:GULEG:name
+Fixes:GULEG:symbol
+Fixes:HACKE:name
+Fixes:HACKE:symbol
+Fixes:HAWFA:name
+Fixes:HAWFA:symbol
+Fixes:HECKS:name
+Fixes:HECKS:symbol
+Fixes:HOGGS:name
+Fixes:HOGGS:symbol
+Fixes:HONDA:name
+Fixes:HONDA:symbol
+Fixes:ICTAM:name
+Fixes:ICTAM:symbol
+Fixes:INDEX:name
+Fixes:INDEX:symbol
+Fixes:JACKI:name
+Fixes:JACKI:symbol
+Fixes:JAMSI:name
+Fixes:JAMSI:symbol
+Fixes:JAZZR:name
+Fixes:JAZZR:symbol
+Fixes:JOOPY:name
+Fixes:JOOPY:symbol
+Fixes:JUSTY:name
+Fixes:JUSTY:symbol
+Fixes:KELLA:name
+Fixes:KELLA:symbol
+Fixes:KENED:name
+Fixes:KENED:symbol
+Fixes:KNIFE:name
+Fixes:KNIFE:symbol
+Fixes:KUNAV:name
+Fixes:KUNAV:symbol
+Fixes:LAVNO:name
+Fixes:LAVNO:symbol
+Fixes:LAZER:name
+Fixes:LAZER:symbol
+Fixes:LETSE:name
+Fixes:LETSE:symbol
+Fixes:LLIME:name
+Fixes:LLIME:symbol
+Fixes:LOGAN:name
+Fixes:LOGAN:symbol
+Fixes:MASEV:name
+Fixes:MASEV:symbol
+Fixes:MOGTA:name
+Fixes:MOGTA:symbol
+Fixes:MORRD:name
+Fixes:MORRD:symbol
+Fixes:MUONE:name
+Fixes:MUONE:symbol
+Fixes:NIKON:name
+Fixes:NIKON:symbol
+Fixes:NOONU:name
+Fixes:NOONU:symbol
+Fixes:NUBER:name
+Fixes:NUBER:symbol
+Fixes:OCEEN:name
+Fixes:OCEEN:symbol
+Fixes:ODOKU:name
+Fixes:ODOKU:symbol
+Fixes:ONDER:name
+Fixes:ONDER:symbol
+Fixes:PACKT:name
+Fixes:PACKT:symbol
+Fixes:PEPUL:name
+Fixes:PEPUL:symbol
+Fixes:PIPER:name
+Fixes:PIPER:symbol
+Fixes:PROBE:name
+Fixes:PROBE:symbol
+Fixes:QUEEN:name
+Fixes:QUEEN:symbol
+Fixes:REAPR:name
+Fixes:REAPR:symbol
+Fixes:RENDR:name
+Fixes:RENDR:symbol
+Fixes:RENTS:name
+Fixes:RENTS:symbol
+Fixes:ROBUX:name
+Fixes:ROBUX:symbol
+Fixes:ROSMO:name
+Fixes:ROSMO:symbol
+Fixes:SAWPE:name
+Fixes:SAWPE:symbol
+Fixes:SEEKS:name
+Fixes:SEEKS:symbol
+Fixes:SETHR:name
+Fixes:SETHR:symbol
+Fixes:SHELL:name
+Fixes:SHELL:symbol
+Fixes:SHIBA:name
+Fixes:SHIBA:symbol
+Fixes:SHREK:name
+Fixes:SHREK:symbol
+Fixes:SILVA:name
+Fixes:SILVA:symbol
+Fixes:SISTA:name
+Fixes:SISTA:symbol
+Fixes:SPACE:name
+Fixes:SPACE:symbol
+Fixes:SQUID:name
+Fixes:SQUID:symbol
+Fixes:STACK:name
+Fixes:STACK:symbol
+Fixes:STRAX:name
+Fixes:STRAX:symbol
+Fixes:SUNST:name
+Fixes:SUNST:symbol
+Fixes:TALIS:name
+Fixes:TALIS:symbol
+Fixes:THACC:name
+Fixes:THACC:symbol
+Fixes:THENR:name
+Fixes:THENR:symbol
+Fixes:TINDR:name
+Fixes:TINDR:symbol
+Fixes:TRELN:name
+Fixes:TRELN:symbol
+Fixes:TUDEP:name
+Fixes:TUDEP:symbol
+Fixes:UDMUG:name
+Fixes:UDMUG:symbol
+Fixes:UWAIS:name
+Fixes:UWAIS:symbol
+Fixes:WAGON:name
+Fixes:WAGON:symbol
+Fixes:WASTE:name
+Fixes:WASTE:symbol
+Fixes:WELLS:name
+Fixes:WELLS:symbol
+Fixes:WELSH:name
+Fixes:WELSH:symbol
+Fixes:WOTAN:name
+Fixes:WOTAN:symbol
+Fixes:YOUTH:name
+Fixes:YOUTH:symbol
+Fixes:ZESTA:name
+Fixes:ZESTA:symbol
+VORs:BAR:frequency
+VORs:BAR:name
+VORs:BAR:symbol
+VORs:BLA:frequency
+VORs:BLA:name
+VORs:BLA:symbol
+VORs:BTM:frequency
+VORs:BTM:name
+VORs:BTM:symbol
+VORs:CAN:frequency
+VORs:CAN:name
+VORs:CAN:symbol
+VORs:CLR:frequency
+VORs:CLR:name
+VORs:CLR:symbol
+VORs:COC:frequency
+VORs:COC:name
+VORs:COC:symbol
+VORs:DEL:frequency
+VORs:DEL:name
+VORs:DEL:symbol
+VORs:DET:frequency
+VORs:DET:name
+VORs:DET:symbol
+VORs:DIR:frequency
+VORs:DIR:name
+VORs:DIR:symbol
+VORs:DIZ:frequency
+VORs:DIZ:name
+VORs:DIZ:symbol
+VORs:GOL:frequency
+VORs:GOL:name
+VORs:GOL:symbol
+VORs:GRY:frequency
+VORs:GRY:name
+VORs:GRY:symbol
+VORs:GVK:frequency
+VORs:GVK:name
+VORs:GVK:symbol
+VORs:HAW:frequency
+VORs:HAW:name
+VORs:HAW:symbol
+VORs:HME:frequency
+VORs:HME:name
+VORs:HME:symbol
+VORs:HOT:frequency
+VORs:HOT:name
+VORs:HOT:symbol
+VORs:HUT:frequency
+VORs:HUT:name
+VORs:HUT:symbol
+VORs:IZO:frequency
+VORs:IZO:name
+VORs:IZO:symbol
+VORs:KIN:frequency
+VORs:KIN:name
+VORs:KIN:symbol
+VORs:KRT:frequency
+VORs:KRT:name
+VORs:KRT:symbol
+VORs:LCK:frequency
+VORs:LCK:name
+VORs:LCK:symbol
+VORs:MLR:frequency
+VORs:MLR:name
+VORs:MLR:symbol
+VORs:NJF:frequency
+VORs:NJF:name
+VORs:NJF:symbol
+VORs:ORG:frequency
+VORs:ORG:name
+VORs:ORG:symbol
+VORs:PER:frequency
+VORs:PER:name
+VORs:PER:symbol
+VORs:PFO:frequency
+VORs:PFO:name
+VORs:PFO:symbol
+VORs:RES:frequency
+VORs:RES:name
+VORs:RES:symbol
+VORs:RFD:frequency
+VORs:RFD:name
+VORs:RFD:symbol
+VORs:ROM:frequency
+VORs:ROM:name
+VORs:ROM:symbol
+VORs:SAU:frequency
+VORs:SAU:name
+VORs:SAU:symbol
+VORs:TRE:frequency
+VORs:TRE:name
+VORs:TRE:symbol
+VORs:TRN:frequency
+VORs:TRN:name
+VORs:TRN:symbol
+VORs:VOX:frequency
+VORs:VOX:name
+VORs:VOX:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:AC-TopSky
+WINDOWAREA:0.344089:0.207462:0.654658:0.767931
+PLUGIN:UK Controller Plugin:approachSequencerContentCollapsed:0
+PLUGIN:UK Controller Plugin:approachSequencerVisible:0
+PLUGIN:UK Controller Plugin:approachSequencerXPosition:200
+PLUGIN:UK Controller Plugin:approachSequencerYPosition:200
+PLUGIN:UK Controller Plugin:CountdownScreenPosX:2320
+PLUGIN:UK Controller Plugin:CountdownScreenPosY:1301
+PLUGIN:UK Controller Plugin:departureCoordinationListContentCollapsed:0
+PLUGIN:UK Controller Plugin:departureCoordinationListVisible:0
+PLUGIN:UK Controller Plugin:departureCoordinationListXPosition:100
+PLUGIN:UK Controller Plugin:departureCoordinationListYPosition:100
+PLUGIN:UK Controller Plugin:DisplayCountdown:1
+PLUGIN:UK Controller Plugin:DisplayMinStack:1
+PLUGIN:UK Controller Plugin:DisplayRegionalPressures:1
+PLUGIN:UK Controller Plugin:HistoryTrailAntiAlias:1
+PLUGIN:UK Controller Plugin:HistoryTrailColour:255,130,20
+PLUGIN:UK Controller Plugin:HistoryTrailDegrade:1
+PLUGIN:UK Controller Plugin:HistoryTrailDisplay:1
+PLUGIN:UK Controller Plugin:HistoryTrailDotFill:0
+PLUGIN:UK Controller Plugin:HistoryTrailDotSize:4
+PLUGIN:UK Controller Plugin:HistoryTrailDotTotate:0
+PLUGIN:UK Controller Plugin:HistoryTrailFade:1
+PLUGIN:UK Controller Plugin:HistoryTrailLength:15
+PLUGIN:UK Controller Plugin:HistoryTrailMaxAltitudeFilter:99999
+PLUGIN:UK Controller Plugin:HistoryTrailMinAltitudeFilter:0
+PLUGIN:UK Controller Plugin:HistoryTrailType:0
+PLUGIN:UK Controller Plugin:holdDisplayVisibility:1
+PLUGIN:UK Controller Plugin:MinStackScreenPosX:1941
+PLUGIN:UK Controller Plugin:MinStackScreenPosY:65
+PLUGIN:UK Controller Plugin:missedApproachButtonVisibility:0
+PLUGIN:UK Controller Plugin:missedApproachButtonXPosition:200
+PLUGIN:UK Controller Plugin:missedApproachButtonYPosition:200
+PLUGIN:UK Controller Plugin:missedApproachRenderDuration:5
+PLUGIN:UK Controller Plugin:missedApproachRenderMode:0
+PLUGIN:UK Controller Plugin:RegionalPressureScreenPosX:2073
+PLUGIN:UK Controller Plugin:RegionalPressureScreenPosY:58
+PLUGIN:UK Controller Plugin:SelectedMinStack:tma.LTMA;tma.MTMA;tma.STMA
+PLUGIN:UK Controller Plugin:SelectedRegionalPressures:ASR_LONDON;ASR_SCOTTISH
+PLUGIN:UK Controller Plugin:wakeCalculatorCollapsed:0
+PLUGIN:UK Controller Plugin:wakeCalculatorVisibility:0
+PLUGIN:UK Controller Plugin:wakeCalculatorXPosition:200
+PLUGIN:UK Controller Plugin:wakeCalculatorYPosition:200

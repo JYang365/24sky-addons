@@ -1,0 +1,65 @@
+{
+    "openAutomatically": false,
+    "timelines": {
+        "LTFM IMREN-SADIK": {
+            "targetFixes": [ "IMREN", "SADIK" ],
+            "tagLayout": "TRvACC",
+			"defaultTimeSpan": 54
+        },
+		"LTFM INSTA - DIVDI": {
+            "targetFixes": [ "INSTA", "DIVDI" ],
+            "tagLayout": "TRvACC",
+			"defaultTimeSpan": 54		
+		},
+		"LTFJ OBIXI": {
+            "targetFixes": [ "OBIXI" ],
+            "tagLayout": "TRvACC",
+			"defaultTimeSpan": 54	
+		},
+		"LTFJ OKIPI": {
+            "targetFixes": [ "OKIPI" ],
+            "tagLayout": "TRvACC",
+			"defaultTimeSpan": 54
+		},
+		"LTBA ASDEV": {
+            "targetFixes": [ "ASDEV" ],
+            "tagLayout": "TRvACC",
+			"defaultTimeSpan": 54
+		},
+		"LTBA GUNGA": {
+            "targetFixes": [ "GUNGA" ],
+            "tagLayout": "TRvACC",
+			"defaultTimeSpan": 54
+		},
+		"LTAI 36 EAST-WEST DOWNWIND": {
+            "targetFixes": [ "AI519", "AI719" ],
+            "tagLayout": "TRvACC",
+			"defaultTimeSpan": 54
+		},
+		"LTAI 18 EAST-WEST DOWNWIND": {
+            "targetFixes": [ "AI624", "AI819" ],
+            "tagLayout": "TRvACC",
+			"defaultTimeSpan": 54
+		},
+		"LTAC VEZIN-TIARE": {
+            "targetFixes": [ "VEZIN", "TIARE" ],
+            "tagLayout": "TRvACC",
+			"defaultTimeSpan": 54
+		},
+		"LTAC EAST WEST DOWNWIND": {
+            "targetFixes": [ "AC444", "AC058" ],
+            "tagLayout": "TRvACC",
+			"defaultTimeSpan": 54
+		}
+    },
+    "tagLayouts": {
+        "TRvACC": [
+            { "source": "callsign", "width": 8 },
+            { "source": "aircraftWtc", "width": 2 }
+        ],
+        "simpleLayout": [
+            { "source": "assignedRunway", "width": 4, "isViaFixIndicator": true },
+            { "source": "callsign", "width": 8 }
+        ]
+    }
+}

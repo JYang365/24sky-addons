@@ -1,0 +1,12 @@
+EuroScope Sector File Provider File
+
+NAME:AeroNav GNG LTXX Turkish vACC
+URL:http://files.aero-nav.com/AeroNav_LTXX_by_Aerosoft_NavDataPro.txt
+DOWNLOADINTERVAL:12
+
+
+SECTOR_NAME:LTXX TRvACC-Manual-Update
+SECTOR_FILE_NAME:LTXX-LTXX
+SECTOR_VERSION:20211020225648-211001-0005
+SECTOR_URL:http://files.aero-nav.com/LTXX/TRvACC-Manual-Update_20211020225648-211001-5.7z
+
