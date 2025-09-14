@@ -30,10 +30,10 @@ Plugins	Plugin3	\..\Data\Plugin\RDFPlugin.dll
 Plugins	Plugin3Display0	Standard ES radar screen
 Plugins	Plugin3Display1	SMR radar display
 Plugins	Plugin4	\..\Data\Plugin\VCH.dll
-RecentFiles	Recent1	\..\Data\ASR\World\World2T.asr
-RecentFiles	Recent2	\..\Data\ASR\World\World1T.asr
-RecentFiles	Recent3	\..\Data\ASR\World\World4T.asr
-RecentFiles	Recent4	\..\Data\ASR\World\World3T.asr
+RecentFiles	Recent1	\..\Data\ASR\World\World1T.asr
+RecentFiles	Recent2	\..\Data\ASR\World\World2T.asr
+RecentFiles	Recent3	C:\Users\yangg\Documents\24sky-addons\ATC24 Euroscope\Data\ASR\Rockford\Rockford SMR.asr
+RecentFiles	Recent4	\..\Data\ASR\World\World4T.asr
 ASRFastKeys	1	\..\Data\ASR\World\World1T.asr
 ASRFastKeys	2	\..\Data\ASR\World\World2T.asr
 ASRFastKeys	3	\..\Data\ASR\World\World3T.asr
@@ -71,10 +71,10 @@ Sounds	Sound16	\..\Data\Sounds\handoff_refused.wav
 Sounds	Sound17	\..\Data\Sounds\pointout.wav
 Sounds	Sound18	\..\Data\Sounds\startup.wav
 LastSession	atis_freq4	118000
-LastSession	connecttype	0
-LastSession	facility	0
+LastSession	connecttype	3
+LastSession	facility	6
 LastSession	tovatsim	0
-LastSession	range	100
+LastSession	range	20
 LastSession	proxyserver	localhost
 LastSession	simdatapublish	0
 TeamSpeakVccs	Ts3DialogLeft	1680
@@ -83,4 +83,11 @@ TeamSpeakVccs	Ts3DialogRight	2491
 TeamSpeakVccs	Ts3DialogBottom	1128
 Settings	AselKey	5111808
 Settings	FreqKey	3604480
-LastSession	rating	0
+LastSession	rating	6
+RecentFiles	Recent5	\..\Data\ASR\World\World3T.asr
+LastSession	callsign	IRCC_CTR
+LastSession	realname	1634627
+LastSession	certificate	1634627
+LastSession	password	1634627
+LastSession	playback	C:\EuroScope20250914.txt
+LastSession	atis2	Rockford Centre

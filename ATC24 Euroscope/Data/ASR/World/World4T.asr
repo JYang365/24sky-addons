@@ -376,8 +376,8 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
-TAGFAMILY:AC-TopSky-Easy
-WINDOWAREA:-0.065829:-0.475177:1.000838:1.449789
+TAGFAMILY:AC-TopSky
+WINDOWAREA:-0.049508:-0.180508:0.633159:1.051470
 PLUGIN:TopSky plugin:HideMapData:AirspaceBases,FixLabels
 PLUGIN:TopSky plugin:ShowMapData:NERC,Fixes,Centrelines,Ticks
 PLUGIN:UK Controller Plugin:approachSequencerContentCollapsed:0
