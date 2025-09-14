@@ -1,2 +1,0 @@
-Source code for this plugin can be found in the following link:
-https://github.com/TRvACC/DiscordEuroscope-for-TRvACC
