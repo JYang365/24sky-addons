@@ -31,5 +31,5 @@ UK Controller Plugin:timer5Enabled:1
 UK Controller Plugin:missedApproachAudio:1
 UK Controller Plugin:missedApproachAudioCurrentUser:0
 UK Controller Plugin:missedApproachServiceProvision:28
-vSMR Vatsim UK:cpdlc_password:aMGvMyN8y9AFtCZ
+vSMR Vatsim UK:cpdlc_password:
 END

@@ -36,7 +36,7 @@ UK Controller Plugin:missedApproachAirfields:EGPH
 UK Controller Plugin:missedApproachServiceProvision:28
 vSMR Vatsim UK:cpdlc_logon:EGPH
 vSMR Vatsim UK:cpdlc_sound:1
-vSMR Vatsim UK:cpdlc_password:aMGvMyN8y9AFtCZ
+vSMR Vatsim UK:cpdlc_password:
 TopSky plugin:ACList/HOLDING LIST/m_Visible:0
 TopSky plugin:ACList/HOLDING LIST/m_X:20
 TopSky plugin:ACList/HOLDING LIST/m_Y:20

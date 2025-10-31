@@ -36,5 +36,5 @@ UK Controller Plugin:missedApproachServiceProvision:28
 UK Controller Plugin:missedApproachAirfields:EGSY
 vSMR Vatsim UK:cpdlc_logon:EGFF
 vSMR Vatsim UK:cpdlc_sound:1
-vSMR Vatsim UK:cpdlc_password:aMGvMyN8y9AFtCZ
+vSMR Vatsim UK:cpdlc_password:
 END

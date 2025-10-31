@@ -111,5 +111,5 @@ UK Controller Plugin:missedApproachAudio:1
 UK Controller Plugin:missedApproachAudioCurrentUser:0
 UK Controller Plugin:missedApproachAirfields:EGSH
 UK Controller Plugin:missedApproachServiceProvision:28
-vSMR Vatsim UK:cpdlc_password:aMGvMyN8y9AFtCZ
+vSMR Vatsim UK:cpdlc_password:
 END

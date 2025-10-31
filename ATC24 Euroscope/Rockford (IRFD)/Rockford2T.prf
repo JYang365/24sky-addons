@@ -69,5 +69,13 @@ TeamSpeakVccs	Ts3DialogRight	2491
 TeamSpeakVccs	Ts3DialogBottom	1128
 LastSession	connecttype	0
 LastSession	facility	0
-LastSession	rating	0
 LastSession	tovatsim	0
+
+TeamSpeakVccs	Ts3NickName	123456
+TeamSpeakVccs	Ts3G2GPtt	3538944
+LastSession	realname	
+LastSession	certificate	123456
+LastSession	rating	0
+LastSession	callsign	_OBS
+LastSession	password	
+Plugins	Plugin6	\..\Data\Plugin\DiscordEuroscope.dll
