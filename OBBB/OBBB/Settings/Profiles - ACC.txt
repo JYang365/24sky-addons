@@ -1,0 +1,38 @@
+PROFILE
+PROFILE:[INITIALS]_OBS:300:0
+ATIS2:Khaleej vACC - Observer
+ATIS3:Give us feedback! - vats.im/khatcfdb
+ATIS4:Welcome to Bahrain | Visit khaleejvacc.net
+PROFILE:OBBB_1_CTR:400:6
+ATIS2:"Bahrain Radar" - CPDLC/DCL [OBBB]
+ATIS3:Give us feedback! - vats.im/khatcfdb
+ATIS4:Welcome to Bahrain | Visit khaleejvacc.net
+PROFILE:OBBB_CH_CTR:400:6
+ATIS2:"Bahrain Radar"
+ATIS3:Give us feedback! - vats.im/khatcfdb
+ATIS4:Welcome to Bahrain | Visit khaleejvacc.net
+PROFILE:OBBB_CL_CTR:400:6
+ATIS2:"Bahrain Radar"
+ATIS3:Give us feedback! - vats.im/khatcfdb
+ATIS4:Welcome to Bahrain | Visit khaleejvacc.net
+PROFILE:OBBB_2_CTR:400:6
+ATIS2:"Bahrain Radar"
+ATIS3:Give us feedback! - vats.im/khatcfdb
+ATIS4:Welcome to Bahrain | Visit khaleejvacc.net
+PROFILE:OBBB_E_CTR:400:6
+ATIS2:"Bahrain Radar" - CPDLC [OBBE]
+ATIS3:Give us feedback! - vats.im/khatcfdb
+ATIS4:Welcome to Bahrain | Visit khaleejvacc.net
+PROFILE:OBBB_3_CTR:400:6
+ATIS2:"Bahrain Radar"
+ATIS3:Give us feedback! - vats.im/khatcfdb
+ATIS4:Welcome to Bahrain | Visit khaleejvacc.net
+PROFILE:OBBB_N_CTR:400:6
+ATIS2:"Bahrain Radar" - CPDLC [OBBN]
+ATIS3:Give us feedback! - vats.im/khatcfdb
+ATIS4:Welcome to Bahrain | Visit khaleejvacc.net
+PROFILE:OBBB_FM_CTR:400:6
+ATIS2:"Bahrain Radar Flow Manager"
+ATIS3:Give us feedback! - vats.im/khatcfdb
+ATIS4:Welcome to Bahrain | Visit khaleejvacc.net
+END

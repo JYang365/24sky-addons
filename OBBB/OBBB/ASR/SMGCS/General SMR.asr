@@ -1,0 +1,59 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\yangg\Documents\24sky-addons\OBBB\ATC24-Sector-File.sct
+SECTORTITLE:ATC24-Sector-File.sct
+ARTCC high boundary:IBTH:
+ARTCC high boundary:IDCS:
+ARTCC high boundary:IGAR:
+ARTCC high boundary:IGRV:
+ARTCC high boundary:IIAB:
+ARTCC high boundary:ILAR:
+ARTCC high boundary:IMLR:
+ARTCC high boundary:IPAP:
+ARTCC high boundary:IPPH:
+ARTCC high boundary:IRFD:
+ARTCC high boundary:ISAU:
+ARTCC high boundary:ISCM:
+ARTCC high boundary:ISKP:
+ARTCC high boundary:ITKO:
+ARTCC high boundary:IZOL:
+Regions:IBTH 3D:polygon
+Regions:ILAR 3D:polygon
+Regions:IMLR 3D:polygon
+Regions:IPPH 3D:polygon
+Regions:IRFD 3D:polygon
+Regions:ISAU 3D:polygon
+Regions:ITKO 3D:polygon
+Runways:IBTH 09-27:extended centerline 1
+Runways:IBTH 09-27:extended centerline 1 left ticks
+Runways:IBTH 09-27:extended centerline 1 right ticks
+Runways:IBTH 09-27:extended centerline 2
+Runways:IBTH 09-27:extended centerline 2 left ticks
+Runways:IBTH 09-27:extended centerline 2 right ticks
+Runways:IPPH 11-29:extended centerline 1
+Runways:IPPH 11-29:extended centerline 1 left ticks
+Runways:IPPH 11-29:extended centerline 1 right ticks
+Runways:IPPH 11-29:extended centerline 2
+Runways:IPPH 11-29:extended centerline 2 left ticks
+Runways:IPPH 11-29:extended centerline 2 right ticks
+Runways:IPPH 15-33:extended centerline 1
+Runways:IPPH 15-33:extended centerline 1 left ticks
+Runways:IPPH 15-33:extended centerline 1 right ticks
+Runways:IPPH 15-33:extended centerline 2
+Runways:IPPH 15-33:extended centerline 2 left ticks
+Runways:IPPH 15-33:extended centerline 2 right ticks
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:TopSky_Bahrain_TWR
+WINDOWAREA:-0.005352:-0.373021:0.942428:1.397322
